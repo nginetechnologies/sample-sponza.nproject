@@ -1,0 +1,73 @@
+{
+    "guid": "2e468066-ca27-96ea-ef4f-8e87898d391e",
+    "source": "Sponza_Enviro.exr",
+    "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+    "resolution": [
+        1024.0,
+        1024.0
+    ],
+    "preset": 9,
+    "usage_flags": 6,
+    "array_size": 6,
+    "bc_data": {
+        "format": 143,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 6291456
+            },
+            {
+                "level": 1,
+                "offset": 6291456,
+                "size": 1572864
+            },
+            {
+                "level": 2,
+                "offset": 7864320,
+                "size": 393216
+            },
+            {
+                "level": 3,
+                "offset": 8257536,
+                "size": 98304
+            },
+            {
+                "level": 4,
+                "offset": 8355840,
+                "size": 24576
+            },
+            {
+                "level": 5,
+                "offset": 8380416,
+                "size": 6144
+            },
+            {
+                "level": 6,
+                "offset": 8386560,
+                "size": 1536
+            },
+            {
+                "level": 7,
+                "offset": 8388096,
+                "size": 384
+            },
+            {
+                "level": 8,
+                "offset": 8388480,
+                "size": 96
+            },
+            {
+                "level": 9,
+                "offset": 8388576,
+                "size": 96
+            },
+            {
+                "level": 10,
+                "offset": 8388672,
+                "size": 96
+            }
+        ]
+    },
+    "astc_data": {}
+}

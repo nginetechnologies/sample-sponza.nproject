@@ -1,0 +1,40 @@
+{
+    "name": "Sponza",
+    "guid": "45f9611c-91e9-4179-876c-d287ac235047",
+    "version": "1.0.0",
+    "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
+    "plugins": [
+        "EAF8C037-4ADF-4A97-99FD-915341D1854C",
+        "B7921721-4029-47CE-873C-5D356D604AA9",
+        "0F7C1053-884C-4795-A082-2AECF6BA8032"
+    ],
+    "asset_directory": "Assets",
+    "binary_directory": "bin",
+    "library_directory": "lib",
+    "thumbnail_guid": "23dd1fce-3540-4d16-a54a-9a7d9888cf77",
+    "default_scene": "7c84a05e-b8c5-419a-9632-13311960b33c",
+    "repository": "https://github.com/nginetechnologies/ngine-samples/tree/master/Sponza.nproject",
+    "source": "Sponza.nproject",
+	"settings": {
+		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
+			"type": "EF61ECBA-906C-481A-B501-966A6BB4729C",
+			"value": "30ad368f-8596-2ce0-2d3e-03b70cddae16"
+		},
+		"18FCF6AA-0531-4A74-9B39-583E0CDA7FD7": {
+			"type": "EF61ECBA-906C-481A-B501-966A6BB4729C",
+			"value": "8FAE8961-C459-4D7F-8413-92F35330B2AC"
+		},
+		"935C5DF9-2837-46FE-9F40-2328787F601B": {
+			"type": "EF61ECBA-906C-481A-B501-966A6BB4729C",
+			"value": "104B9518-79A9-4F70-993A-7D3765049087"
+		},
+		"FC43DCCC-A186-407D-99A7-44A6CDF8B7B2": {
+			"type": "EF61ECBA-906C-481A-B501-966A6BB4729C",
+			"value": "559f08d9-bda7-bec5-6212-808cd8ad1150"
+		},
+		"30626C44-8263-456E-AB68-94EEB4774C06": {
+			"type": "EF61ECBA-906C-481A-B501-966A6BB4729C",
+			"value": "461BBB28-0A47-403D-8D35-E4E48AA89B75"
+		}
+	}
+}

@@ -1,0 +1,82 @@
+{
+    "guid": "7f0fd5ed-fc29-4df4-7016-766913e84182",
+    "source": "../../Source/textures/column_brickwall_01_BaseColor.png",
+    "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+    "resolution": [
+        4096.0,
+        4096.0
+    ],
+    "preset": 3,
+    "usage_flags": 6,
+    "bc_data": {
+        "format": 131,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 8388608
+            },
+            {
+                "level": 1,
+                "offset": 8388608,
+                "size": 2097152
+            },
+            {
+                "level": 2,
+                "offset": 10485760,
+                "size": 524288
+            },
+            {
+                "level": 3,
+                "offset": 11010048,
+                "size": 131072
+            },
+            {
+                "level": 4,
+                "offset": 11141120,
+                "size": 32768
+            },
+            {
+                "level": 5,
+                "offset": 11173888,
+                "size": 8192
+            },
+            {
+                "level": 6,
+                "offset": 11182080,
+                "size": 2048
+            },
+            {
+                "level": 7,
+                "offset": 11184128,
+                "size": 512
+            },
+            {
+                "level": 8,
+                "offset": 11184640,
+                "size": 128
+            },
+            {
+                "level": 9,
+                "offset": 11184768,
+                "size": 32
+            },
+            {
+                "level": 10,
+                "offset": 11184800,
+                "size": 8
+            },
+            {
+                "level": 11,
+                "offset": 11184808,
+                "size": 8
+            },
+            {
+                "level": 12,
+                "offset": 11184816,
+                "size": 8
+            }
+        ]
+    },
+    "astc_data": {}
+}

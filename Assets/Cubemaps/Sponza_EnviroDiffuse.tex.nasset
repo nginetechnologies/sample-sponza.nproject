@@ -1,0 +1,48 @@
+{
+    "guid": "ec053842-41ce-c101-2929-15f40e4328c4",
+    "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+    "resolution": [
+        32.0,
+        32.0
+    ],
+    "preset": 9,
+    "usage_flags": 7,
+    "flags": 16,
+    "array_size": 6,
+    "bc_data": {
+        "format": 143,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 6144
+            },
+            {
+                "level": 1,
+                "offset": 6144,
+                "size": 1536
+            },
+            {
+                "level": 2,
+                "offset": 7680,
+                "size": 384
+            },
+            {
+                "level": 3,
+                "offset": 8064,
+                "size": 96
+            },
+            {
+                "level": 4,
+                "offset": 8160,
+                "size": 96
+            },
+            {
+                "level": 5,
+                "offset": 8256,
+                "size": 96
+            }
+        ]
+    },
+    "astc_data": {}
+}

@@ -1,0 +1,21 @@
+{
+    "guid": "2b4ae0c2-ee22-acaf-7227-b8c6469569f4",
+    "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+    "material": "846a87e3-b738-4471-a336-bcac78e126b1",
+    "descriptor_contents": [
+        {
+            "texture": "7a60453d-d0b0-1f7f-5288-0119436dd66a",
+            "address_mode": 0
+        }
+    ],
+    "push_constants": [
+        {
+            "type": 1,
+            "value": 0.5
+        },
+        {
+            "type": 1,
+            "value": 0.8585
+        }
+    ]
+}
