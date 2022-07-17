@@ -9,7 +9,7 @@
     },
     "00429ff7-0020-64c7-f546-03b9448fbbda": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain Hanging 05.mesh.nasset/Curtain Hanging 05 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -25,7 +25,7 @@
     },
     "01a76a38-0975-e67a-503b-3d4ed20a9215": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 7.mesh.nasset/Roof Floor 03 7 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -33,7 +33,7 @@
     },
     "01b5b625-dc11-0ef1-dc0c-21f25c544d8e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Walls Floor 01.mesh.nasset/Walls Floor 01 Brick Wall 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -41,7 +41,7 @@
     },
     "024c8425-9b26-bdaf-a563-c98abbc4601e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 5.mesh.nasset/Roof Floor 03 5 Roof Tiles.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -53,7 +53,7 @@
     },
     "027426fa-5cd3-f201-6f2b-e7ef93347db8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Decals Floor 03.mesh.nasset/Decals Floor 03 Decal Dirt.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -61,7 +61,7 @@
     },
     "033cbe3f-5c0d-e27b-f6ee-7e40bce40931": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 3.mesh.nasset/Lamps Floor 01 3 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -69,7 +69,7 @@
     },
     "043e4617-9fbe-ee51-fdc2-f8471a3d2312": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 8.mesh.nasset/Ornament Door Floor 02 8 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -85,7 +85,7 @@
     },
     "04dc5b39-08aa-f3f1-35ff-c501b4ebda93": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Walls Floor 03.mesh.nasset/Walls Floor 03 Arch Stone Wall.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -97,7 +97,7 @@
     },
     "06717508-6e4a-b20d-1d27-733fe261dc76": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Columns Floor 01 1.mesh.nasset/Columns Floor 01 1 Column Floor 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -113,7 +113,7 @@
     },
     "06e64806-56de-6a86-970e-4f93bdd2258e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 5.mesh.nasset/Ornament Door Floor 02 5 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -121,7 +121,7 @@
     },
     "06fe763f-1747-6d85-1eb1-177a73acfbc7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 14.mesh.nasset/Ornament Door Floor 02 14 Arch Stone Wall.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -129,7 +129,7 @@
     },
     "079c4331-41bf-02e8-39a8-ae9dce895824": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 5.mesh.nasset/Ornament Doors Floor 01 5 Door Stone Frame 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -145,7 +145,7 @@
     },
     "0833736a-7f11-54f9-8e1a-b41b000e42f1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 6.mesh.nasset/Ornament Door Floor 02 6 Door Stone Frame 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -153,7 +153,7 @@
     },
     "08b01eda-511d-0f3f-1b44-382f07908ad4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Columns Floor 01 5.mesh.nasset/Columns Floor 01 5 Column Head Floor 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -161,7 +161,7 @@
     },
     "097097c5-5eca-608e-d0fd-28a3bae616f7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Column Floor 02 02.mesh.nasset/Column Floor 02 02 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -173,7 +173,7 @@
     },
     "09e0ba8d-a616-5c59-b8ae-5f5e0c920026": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 2.mesh.nasset/Roof Floor 03 2 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -181,7 +181,7 @@
     },
     "0a465f78-4cb2-8432-7b22-a2e0310daa10": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 1.mesh.nasset/Ornament Door Floor 02 1 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -189,7 +189,7 @@
     },
     "0a4ffd4a-e498-7cef-d9ea-60d1e1d871c7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Column Floor 02 02.mesh.nasset/Column Floor 02 02 Column Head Floor 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -197,7 +197,7 @@
     },
     "0b0bf4a7-8326-5e77-8f4a-3ca6c2af9353": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 8.mesh.nasset/Ornament Door Floor 02 8 Brick Wall 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -205,7 +205,7 @@
     },
     "0b2001fd-796d-d279-d1f1-e400968b6d97": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 6.mesh.nasset/Lamps Floor 02 6 Light Bulb.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -229,7 +229,7 @@
     },
     "0dc400a4-d9ba-3562-3adc-dcdffdeb5468": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 10.mesh.nasset/Ornament Door Floor 02 10 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -237,7 +237,7 @@
     },
     "0e8ba345-5393-2824-5e1e-ac899e82f9e0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 8.mesh.nasset/Lamps Floor 02 8 Light Bulb.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -245,7 +245,7 @@
     },
     "0ea67868-359f-ae02-c637-8ccd6200832e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 1.mesh.nasset/Lamps Floor 02 1 Light Bulb.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -257,7 +257,7 @@
     },
     "0f13403a-24c1-9efb-c9ab-4a9893eaa162": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 02.mesh.nasset/Curtain 02 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -265,7 +265,7 @@
     },
     "0fdf2237-4d7c-eeba-2af0-894fa6cb8ef1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Walls Floor 03.mesh.nasset/Walls Floor 03 Brick Wall 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -289,7 +289,7 @@
     },
     "111daf71-644c-6b7c-264f-8d06e49ba718": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 3.mesh.nasset/Lamps Floor 02 3 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -301,7 +301,7 @@
     },
     "11f1e6ce-656c-d269-718d-6e563128b74e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Stone Walls Floor 02.mesh.nasset/Stone Walls Floor 02 Floor.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -309,7 +309,7 @@
     },
     "11f5ccdb-fe31-ccf7-f4ea-3ff907cbb990": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ceiling Floor 01.mesh.nasset/Ceiling Floor 01 Ceiling Plaster 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -321,7 +321,7 @@
     },
     "12b4723d-cbd0-d1e7-152f-4fdf237dd486": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 14.mesh.nasset/Ornament Door Floor 02 14 Door Stone Frame 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -329,7 +329,7 @@
     },
     "1313156e-d260-a125-a504-b27f4e4b5339": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 7.mesh.nasset/Lamps Floor 02 7 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -337,7 +337,7 @@
     },
     "1463d753-8004-f7cd-c112-1490b6593eca": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Wooden Parts Floor 01.mesh.nasset/Wooden Parts Floor 01 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -353,7 +353,7 @@
     },
     "14bd64a7-bcbe-59ff-334f-173c7de31a39": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Walls Floor 01.mesh.nasset/Walls Floor 01 Stone Trim 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -361,7 +361,7 @@
     },
     "15279dea-5aab-5128-2b9d-235eeb540307": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 8.mesh.nasset/Ornament Door Floor 02 8 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -369,7 +369,7 @@
     },
     "1552538f-7aff-f39d-e99a-b07ae45be6f2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 1.mesh.nasset/Ornament Doors Floor 01 1 Window Frame.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -381,7 +381,7 @@
     },
     "15cd170c-5ec3-e5bc-4c4d-20df900fdd44": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 12.mesh.nasset/Lamps Floor 01 12 Light Bulb.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -397,7 +397,7 @@
     },
     "17809e95-4475-4d16-656e-9ebb31ed251e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 12.mesh.nasset/Ornament Door Floor 02 12 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -405,7 +405,7 @@
     },
     "184e84ee-69fb-7f50-52ba-aaa81f2b6d23": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 05.mesh.nasset/Curtain 05 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -413,7 +413,7 @@
     },
     "1879b6a5-1586-5ec6-cd8f-78ebe4a05429": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 10.mesh.nasset/Ornament Doors Floor 01 10 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -421,7 +421,7 @@
     },
     "1944e874-2627-8767-a735-6ac67d6be465": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 9.mesh.nasset/Ornament Doors Floor 01 9 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -429,7 +429,7 @@
     },
     "19ac7cb5-13cf-0017-2d4e-08fd39ec2b65": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 4.mesh.nasset/Ornament Door Floor 02 4 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -445,7 +445,7 @@
     },
     "19ed0c1b-1dcc-b9fc-4622-2d03b5725df6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 5.mesh.nasset/Ornament Door Floor 02 5 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -461,7 +461,7 @@
     },
     "1a240ec3-4b90-d25f-afbb-905f295bc3f1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Walls Floor 01.mesh.nasset/Walls Floor 01 Stone Trim 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -469,7 +469,7 @@
     },
     "1a2fd1d0-b234-6279-c1a6-d10e528fc30b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 3.mesh.nasset/Ornament Doors Floor 01 3 Door Stone Frame 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -477,7 +477,7 @@
     },
     "1a5a1e9a-a9ef-6962-87a4-e7a53a9b0eaa": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Columns Floor 01 4.mesh.nasset/Columns Floor 01 4 Column Floor 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -485,7 +485,7 @@
     },
     "1ab56cba-edd3-b530-9197-33b3b757508f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamp Entrance Floor 01.mesh.nasset/Lamp Entrance Floor 01 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -493,7 +493,7 @@
     },
     "1b81720a-3ad1-135d-54e5-d06fad31d082": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 6.mesh.nasset/Ornament Door Floor 02 6 Brick Wall 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -501,7 +501,7 @@
     },
     "1b97da15-4ee8-ab79-053d-f66d39038209": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 2.mesh.nasset/Ornament Doors Floor 01 2 Window Frame.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -509,7 +509,7 @@
     },
     "1c037fd4-62e5-7fd6-5129-c685f89cee34": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Windows.mesh.nasset/Ornament Windows Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -517,7 +517,7 @@
     },
     "1c300079-5b6e-bab2-98fd-3eb204443aec": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 09.mesh.nasset/Curtain 09 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -533,7 +533,7 @@
     },
     "1d1d27fa-5602-8346-4ee9-777df64c7cd9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 1.mesh.nasset/Lamps Floor 01 1 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -541,7 +541,7 @@
     },
     "1d31b30b-e095-4cac-561b-a4bb4987564e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 03.mesh.nasset/Curtain 03 Curtain Red.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -549,7 +549,7 @@
     },
     "1e93fc33-311e-0c76-1e8c-a64c14ce1281": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 7.mesh.nasset/Lamps Floor 01 7 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -567,7 +567,7 @@
     },
     "209ea8be-9436-2603-ede4-430a72077829": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Arch Stones Floor 01 3.mesh.nasset/Arch Stones Floor 01 3 Brick Wall 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -575,7 +575,7 @@
     },
     "219c3299-b148-7294-09e6-1b2f29bfe842": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 2.mesh.nasset/Ornament Doors Floor 01 2 Door Stone Frame 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -583,7 +583,7 @@
     },
     "22070ae0-d543-ba1e-2509-97896ad238bd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ceiling Floor 01 2.mesh.nasset/Ceiling Floor 01 2 Ceiling Plaster 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -591,7 +591,7 @@
     },
     "22a85415-552e-4002-2d1f-b3848d4402e4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 6.mesh.nasset/Roof Floor 03 6 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -603,7 +603,7 @@
     },
     "236d167d-4c7c-87b7-cd0c-c40147e6e27a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Columns Floor 01 2.mesh.nasset/Columns Floor 01 2 Column Floor 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -621,7 +621,7 @@
     },
     "25e52ebc-90bd-4463-848c-2d6e80528cba": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 11.mesh.nasset/Lamps Floor 01 11 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -629,7 +629,7 @@
     },
     "25e8af64-3fba-8d77-5ef5-58bb98274cc9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 1.mesh.nasset/Roof Floor 03 1 Brick Wall 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -661,7 +661,7 @@
     },
     "27478390-c12a-1207-0104-99c0700e1ed0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 5.mesh.nasset/Lamps Floor 02 5 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -669,7 +669,7 @@
     },
     "27b6dd56-adbf-e31e-40f9-0a5c0c1e15fc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 8.mesh.nasset/Lamps Floor 02 8 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -677,7 +677,7 @@
     },
     "286d9e0b-dd29-30a9-2808-24dd2b6c0dce": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 05.mesh.nasset/Curtain 05 Curtain Red.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -689,7 +689,7 @@
     },
     "28f94c35-ac7c-bfc2-2246-b06d0433e549": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 8.mesh.nasset/Lamps Floor 01 8 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -713,7 +713,7 @@
     },
     "2adcf618-1d72-76e5-7a86-35ea6cd62088": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 8.mesh.nasset/Ornament Door Floor 02 8 Window Frame.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -733,7 +733,7 @@
     },
     "2c2c4a73-445c-06f8-ea8b-bad9236de4b6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 8.mesh.nasset/Ornament Doors Floor 01 8 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -746,7 +746,7 @@
     },
     "2c6fd0cb-c118-122c-e996-8f9328d59bf4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Arch Stones Floor 01 2.mesh.nasset/Arch Stones Floor 01 2 Arch Stone Wall.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -766,7 +766,7 @@
     },
     "2d10350b-48bd-9484-f455-997551746fa6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 09.mesh.nasset/Curtain 09 Curtain Red.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -774,7 +774,7 @@
     },
     "2d4a472a-4c24-6d2f-cfca-30b14bd835f1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 6.mesh.nasset/Lamps Floor 01 6 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -782,7 +782,7 @@
     },
     "2d61d788-635d-9091-3ef1-0c514fbd6fb6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 5.mesh.nasset/Ornament Door Floor 02 5 Door Stone Frame 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -790,7 +790,7 @@
     },
     "2dd434c1-6f6c-d88e-9fa5-cff24ae0de65": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain Hanging 03.mesh.nasset/Curtain Hanging 03 Curtain Green.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -822,7 +822,7 @@
     },
     "31b66c2b-da9f-9bce-a1dc-665b70fd1e90": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Stone Walls Floor 02.mesh.nasset/Stone Walls Floor 02 Stones Floor 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -830,7 +830,7 @@
     },
     "32a0a2ee-9669-331e-9d01-b62c863f4cb4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 8.mesh.nasset/Ornament Doors Floor 01 8 Door Stone Frame 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -846,7 +846,7 @@
     },
     "32d65245-ba93-7066-2fa0-d04e7f9f3753": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain Holder 01.mesh.nasset/Curtain Holder 01 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -854,7 +854,7 @@
     },
     "3372b9ab-f31d-ae07-a67b-64fbaae8dac4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 6.mesh.nasset/Lamps Floor 01 6 Light Bulb.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -870,7 +870,7 @@
     },
     "3617eb79-aaf0-c30d-86d6-f38ef947d12e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ceiling Floor 02.mesh.nasset/Ceiling Floor 02 Arch Stone Wall.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -878,7 +878,7 @@
     },
     "37d5aeb9-47e0-0229-bec7-3ae5803966ac": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Column Floor 02 19.mesh.nasset/Column Floor 02 19 Column Brick Wall 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -886,7 +886,7 @@
     },
     "38013387-ad6e-00ca-96a8-18edbd15954e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 10.mesh.nasset/Lamps Floor 01 10 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -903,7 +903,7 @@
     },
     "38340401-0d62-7741-8c1b-74e604e318da": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain Hanging 05.mesh.nasset/Curtain Hanging 05 Curtain Red.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -915,7 +915,7 @@
     },
     "3860ecf3-2be9-47ad-d7fc-cfd73d978c86": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 4.mesh.nasset/Ornament Door Floor 02 4 Door Stone Frame 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -923,7 +923,7 @@
     },
     "38765493-c060-b857-3325-16e6baefd30a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 13.mesh.nasset/Ornament Door Floor 02 13 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -931,7 +931,7 @@
     },
     "387ec421-d589-68ea-1b7c-b65e2183d965": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 06.mesh.nasset/Curtain 06 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -947,7 +947,7 @@
     },
     "3a2b6c34-f33c-48ad-85c3-c8f63d98ec56": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain Hanging 01.mesh.nasset/Curtain Hanging 01 Curtain Green.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -955,7 +955,7 @@
     },
     "3ae3b211-4f42-59d6-f792-3019115f8e76": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Column Floor 02.mesh.nasset/Column Floor 02 Column Brick Wall 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -963,7 +963,7 @@
     },
     "3b8a45bf-1fc2-ad54-e148-2a7a2d76f017": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 11.mesh.nasset/Ornament Door Floor 02 11 Door Stone Frame 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -971,7 +971,7 @@
     },
     "3bba9836-3382-01a8-02fe-53303e0112e3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Walls Floor 03.mesh.nasset/Walls Floor 03 Brick Wall 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -979,7 +979,7 @@
     },
     "3bd6e9d8-8789-46fc-f420-b31646ae0215": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Column Floor 02 20.mesh.nasset/Column Floor 02 20 Column Head Floor 03.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -987,7 +987,7 @@
     },
     "3d681759-a261-8253-742b-71e4d770b8e4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 07.mesh.nasset/Curtain 07 Curtain Blue.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -995,7 +995,7 @@
     },
     "3dabee50-b7a7-0075-1fa2-124c3de27e30": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Exterior.mesh.nasset/Exterior Arch Stone Wall.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1015,7 +1015,7 @@
     },
     "3f2cd65a-9e06-647e-e63a-2b9b759ef14e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 4.mesh.nasset/Ornament Door Floor 02 4 Brick Wall 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1032,7 +1032,7 @@
     },
     "4010eaf4-a88f-28c2-b35a-cd9912d7d380": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 06.mesh.nasset/Curtain 06 Curtain Blue.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1040,7 +1040,7 @@
     },
     "4346c762-f1ad-60c3-8c71-61f77609cf63": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 1.mesh.nasset/Roof Floor 03 1 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1052,7 +1052,7 @@
     },
     "440a68c3-a4fa-63d5-fac9-c55d8659a1b7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 7.mesh.nasset/Ornament Door Floor 02 7 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1060,7 +1060,7 @@
     },
     "442cbaba-007b-4cf5-5762-17f69ff4e00c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ceiling Floor 02.mesh.nasset/Ceiling Floor 02 Ceiling Plaster 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1076,7 +1076,7 @@
     },
     "4518d81b-1a38-8df9-872b-f2e28c935aff": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 10.mesh.nasset/Ornament Doors Floor 01 10 Door Stone Frame 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1084,7 +1084,7 @@
     },
     "4549768a-ab72-1c3e-3318-c8faef2ed21f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 9.mesh.nasset/Ornament Doors Floor 01 9 Door Stone Frame 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1105,7 +1105,7 @@
     },
     "46a60c2e-ed46-cf4a-7183-aacbcaa7f868": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 07.mesh.nasset/Curtain 07 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1113,7 +1113,7 @@
     },
     "473a7887-2043-b60a-2b7b-00aa2d44280e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 5.mesh.nasset/Ornament Doors Floor 01 5 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1121,7 +1121,7 @@
     },
     "4742c7ea-3a8c-5397-39be-16c4c2a5612b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Column Floor 02 4.mesh.nasset/Column Floor 02 4 Column Brick Wall 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1129,7 +1129,7 @@
     },
     "478999ef-5b1b-63b9-8269-944ae3016046": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Column Floor 02 19.mesh.nasset/Column Floor 02 19 Column Head Floor 03.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1145,7 +1145,7 @@
     },
     "49345bda-2c15-999c-a3c0-fe5cfbb1368f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 2.mesh.nasset/Roof Floor 03 2 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1161,7 +1161,7 @@
     },
     "4967792b-048c-44b0-97e8-c6d9c53fe51c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Decals Floor 01.mesh.nasset/Decals Floor 01 Decal Dirt.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1169,7 +1169,7 @@
     },
     "49f51cb5-d985-f50e-9f6a-f609609588b0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Column Floor 02.mesh.nasset/Column Floor 02 Stone Trim 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1181,7 +1181,7 @@
     },
     "4a275d54-09bc-8fe1-dcae-ae2d47edca40": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Wooden Parts Floor 01.mesh.nasset/Wooden Parts Floor 01 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1189,7 +1189,7 @@
     },
     "4a91d7eb-13bd-6fcf-35d0-ce3a0d44c4bc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 10.mesh.nasset/Lamps Floor 01 10 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1213,7 +1213,7 @@
     },
     "4bc02409-1fed-f254-4407-6f1420e0bca0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ceiling Floor 01 2.mesh.nasset/Ceiling Floor 01 2 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1229,7 +1229,7 @@
     },
     "4c11f483-104d-93e9-7e65-3fcbe4ce12a5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 6.mesh.nasset/Ornament Door Floor 02 6 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1237,7 +1237,7 @@
     },
     "4c1c8c9b-ad3e-abac-77b3-23bd2e6380c0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Stones Floor 02.mesh.nasset/Ornament Stones Floor 02 Stone Trim 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1245,7 +1245,7 @@
     },
     "4ca0b815-3c53-5608-89b4-90e78897edad": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 6.mesh.nasset/Lamps Floor 02 6 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1253,7 +1253,7 @@
     },
     "4ce0ae87-7297-952b-ddee-9b1fec971387": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 6.mesh.nasset/Ornament Door Floor 02 6 Window Frame.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1261,7 +1261,7 @@
     },
     "4d5cecab-055e-abe1-4582-dc30f793018b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Windows.mesh.nasset/Ornament Windows Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1277,7 +1277,7 @@
     },
     "4ec6aa96-62b8-b9b5-d2db-94ff2abd7066": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Arch Stones Floor 01 1.mesh.nasset/Arch Stones Floor 01 1 Stone Trim 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1285,7 +1285,7 @@
     },
     "4f714b6f-5ec1-d549-752a-7f7068582edf": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain Hanging 04.mesh.nasset/Curtain Hanging 04 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1297,7 +1297,7 @@
     },
     "504e92bb-1ed9-4382-61f0-be75e325401d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Column Floor 02 8.mesh.nasset/Column Floor 02 8 Column Head Floor 03.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1305,7 +1305,7 @@
     },
     "50b7b660-bdb2-265c-24f6-e29cfb138260": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ceiling Floor 01 2.mesh.nasset/Ceiling Floor 01 2 Stone Trim 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1313,7 +1313,7 @@
     },
     "5140d990-3a99-7bf4-803d-e44fe8f740f2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Main.mesh.nasset",
         "thumbnail": "f486867e-c411-c908-b1f7-a679c0318b73",
         "tags": [
@@ -1322,7 +1322,7 @@
     },
     "5144465a-fbd1-6a5c-96ae-d0a1b8cbf0d0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 10.mesh.nasset/Ornament Doors Floor 01 10 Window Frame.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1338,7 +1338,7 @@
     },
     "51a61390-3b09-cd9d-0e7d-8ac270b99278": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 7.mesh.nasset/Ornament Door Floor 02 7 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1346,7 +1346,7 @@
     },
     "51d08402-71a6-be64-7abf-3aa0ce21b2ff": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Arch Wall Floor 02.mesh.nasset/Arch Wall Floor 02 Stone Trim 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1370,7 +1370,7 @@
     },
     "52b1043f-05de-4c4b-dbee-192bbe180b77": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 2.mesh.nasset/Ornament Door Floor 02 2 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1378,7 +1378,7 @@
     },
     "5331ab12-84e8-455a-1c02-6fab04d94797": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 02.mesh.nasset/Curtain 02 Curtain Blue.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1386,7 +1386,7 @@
     },
     "5396c99e-6742-74d2-2c68-7dad654fcdbf": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ceiling Floor 01.mesh.nasset/Ceiling Floor 01 Stones Floor 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1394,7 +1394,7 @@
     },
     "53d3a579-fca6-3254-e073-05d77a3afc92": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 14.mesh.nasset/Ornament Door Floor 02 14 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1406,7 +1406,7 @@
     },
     "54d5dc58-4624-940c-e5b6-5dd8d15459e3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 7.mesh.nasset/Roof Floor 03 7 Roof Tiles.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1414,7 +1414,7 @@
     },
     "55d607f0-49d2-bd64-e39d-fce7061c5294": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Stone Walls Floor 02.mesh.nasset/Stone Walls Floor 02 Brick Wall 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1422,7 +1422,7 @@
     },
     "5627d99a-d594-66f9-7a31-d939e9cdc3bb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Column Floor 02 4.mesh.nasset/Column Floor 02 4 Column Floor 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1438,7 +1438,7 @@
     },
     "5786600b-393f-f0df-e8f8-b94bd6183044": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 3.mesh.nasset/Ornament Door Floor 02 3 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1446,7 +1446,7 @@
     },
     "58ac400d-ebde-12df-b202-4b5a1890717e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 2.mesh.nasset/Roof Floor 03 2 Brick Wall 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1454,7 +1454,7 @@
     },
     "59138f5e-f56d-45cf-05cd-05c2cc372355": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 15.mesh.nasset/Ornament Door Floor 02 15 Arch Stone Wall.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1466,7 +1466,7 @@
     },
     "592a2df4-bf7a-f256-af61-406bcd62413f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 6.mesh.nasset/Ornament Door Floor 02 6 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1486,7 +1486,7 @@
     },
     "59ef0781-13db-4e73-f7fd-685a9ad3e0a5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 5.mesh.nasset/Lamps Floor 01 5 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1510,7 +1510,7 @@
     },
     "5afdd535-5d3b-0fa8-f996-c1c2bbf10ed9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 6.mesh.nasset/Roof Floor 03 6 Roof Tiles.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1531,7 +1531,7 @@
     },
     "5bcccdd1-7f3e-450e-e0a9-bc6d3a83010f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Roof.mesh.nasset/Ornament Roof Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1539,7 +1539,7 @@
     },
     "5c6314f2-bf5e-318b-77cc-97670542d7a7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 1.mesh.nasset/Lamps Floor 01 1 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1547,7 +1547,7 @@
     },
     "5cea436b-e0a4-60bf-8a1e-323793dddc18": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 5.mesh.nasset/Ornament Doors Floor 01 5 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1555,7 +1555,7 @@
     },
     "5ceab533-8f9a-70b4-41f1-0f61490143c3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export White.mesh.nasset",
         "thumbnail": "596919b1-be59-4c3e-3c7f-9941fef6ea13",
         "tags": [
@@ -1564,7 +1564,7 @@
     },
     "5d1606d8-986a-ceb0-af1e-943d7b688942": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Walls Floor 01.mesh.nasset/Walls Floor 01 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1584,7 +1584,7 @@
     },
     "5dd61604-1c90-5bce-d81c-57810e376f77": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 7.mesh.nasset/Ornament Doors Floor 01 7 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1605,7 +1605,7 @@
     },
     "6023698b-56f9-d3e6-46ea-13cde6be87cf": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 03.mesh.nasset/Curtain 03 Curtain Blue.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1629,7 +1629,7 @@
     },
     "609ec5c4-794d-2988-7fcc-1969fcac5f2f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 12.mesh.nasset/Ornament Door Floor 02 12 Window Frame.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1637,7 +1637,7 @@
     },
     "61355aa0-84ab-0a90-838c-4e4f694afb68": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 9.mesh.nasset/Ornament Doors Floor 01 9 Window Frame.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1665,7 +1665,7 @@
     },
     "63b56951-5e04-9e99-041b-edcd9fb85dc0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 9.mesh.nasset/Ornament Door Floor 02 9 Brick Wall 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1673,7 +1673,7 @@
     },
     "64889da0-f311-9828-5da6-bfdd121e11ea": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 3.mesh.nasset/Ornament Door Floor 02 3 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1689,7 +1689,7 @@
     },
     "64e7b080-d1a9-6a0f-165d-b3029044b05f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 10.mesh.nasset/Lamps Floor 01 10 Light Bulb.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1701,7 +1701,7 @@
     },
     "658208fc-16f6-19f8-9a0c-0fb9ee0eeec1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 6.mesh.nasset/Lamps Floor 02 6 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1709,7 +1709,7 @@
     },
     "660e14e2-2ec3-16c5-f6c4-143fb99490ff": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ceiling Floor 02.mesh.nasset/Ceiling Floor 02 Stones Floor 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1733,7 +1733,7 @@
     },
     "66f8deec-de33-7152-3351-44de2ae57a6a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 4.mesh.nasset/Lamps Floor 01 4 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1749,7 +1749,7 @@
     },
     "67ea2e94-0e26-88d7-1f55-0b2668f790b9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 3.mesh.nasset/Roof Floor 03 3 Roof Tiles.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1757,7 +1757,7 @@
     },
     "688d33d5-b874-1d8f-8457-8605e87a8915": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 07.mesh.nasset/Curtain 07 Curtain Red.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1769,7 +1769,7 @@
     },
     "69086636-4895-e01f-a193-b495535bbf5e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Columns Floor 01 1.mesh.nasset/Columns Floor 01 1 Column Head Floor 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1777,7 +1777,7 @@
     },
     "69a3902d-23c8-0f94-4d0e-d78cceede864": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 4.mesh.nasset/Roof Floor 03 4 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1789,7 +1789,7 @@
     },
     "6a315e2a-9256-9ac1-7420-ea094991a706": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 08.mesh.nasset/Curtain 08 Curtain Blue.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1797,7 +1797,7 @@
     },
     "6a3e05ac-8ba7-7bd3-76ee-1a2771231d72": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 3.mesh.nasset/Lamps Floor 02 3 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1805,7 +1805,7 @@
     },
     "6aa1cb45-ded9-314c-9934-e6b01fba3325": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 3.mesh.nasset/Ornament Door Floor 02 3 Door Stone Frame 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1813,7 +1813,7 @@
     },
     "6adfc3df-a112-ab82-6ddb-84e473a675e3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 4.mesh.nasset/Lamps Floor 02 4 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1821,7 +1821,7 @@
     },
     "6bf0d50f-c361-aec4-1776-e5b9b3802c75": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 13.mesh.nasset/Ornament Door Floor 02 13 Brick Wall 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1837,7 +1837,7 @@
     },
     "6cbce0c9-41c8-8a5e-6c4e-04d1799af324": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 9.mesh.nasset/Ornament Door Floor 02 9 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1845,7 +1845,7 @@
     },
     "6cefd911-07cf-0ff4-a802-e1f868ddff10": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain Hanging 02.mesh.nasset/Curtain Hanging 02 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1874,7 +1874,7 @@
     },
     "6f4e86e7-cbc5-397c-506f-e934f2de081f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 8.mesh.nasset/Lamps Floor 02 8 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1890,7 +1890,7 @@
     },
     "70c2b069-67d0-849a-dbff-b29efc1d4efd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 2.mesh.nasset/Lamps Floor 01 2 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1898,7 +1898,7 @@
     },
     "70e07dd8-2a92-e79a-f595-738ca5a26ec1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 12.mesh.nasset/Lamps Floor 01 12 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1910,7 +1910,7 @@
     },
     "72614b24-f204-b870-9789-f27858d7ab8d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 7.mesh.nasset/Ornament Door Floor 02 7 Brick Wall 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1918,7 +1918,7 @@
     },
     "7301d8d7-587f-afc0-38e0-92b973a6248d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 7.mesh.nasset/Ornament Door Floor 02 7 Door Stone Frame 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1926,7 +1926,7 @@
     },
     "7314257a-12e8-a3f2-e648-3adc05aad2f3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Column Floor 02 8.mesh.nasset/Column Floor 02 8 Column Brick Wall 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1946,7 +1946,7 @@
     },
     "751ff73f-667a-07b7-1c66-96064674a22f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Wooden Parts Floor 01.mesh.nasset/Wooden Parts Floor 01 Wood Door.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1954,7 +1954,7 @@
     },
     "75728cd5-94a5-fd7b-d607-9d034b00ebba": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 03.mesh.nasset/Curtain 03 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1962,7 +1962,7 @@
     },
     "75dc626a-0a2e-6bc3-bf59-db6198e5c9a7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 04.mesh.nasset/Curtain 04 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1980,7 +1980,7 @@
     },
     "76f988e5-a17d-ccfa-aab3-39e3ec3a0e6c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 9.mesh.nasset/Lamps Floor 01 9 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -1988,7 +1988,7 @@
     },
     "77fafc52-2ced-32d7-8f24-11ffadcfb17f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 01.mesh.nasset/Curtain 01 Curtain Red.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2008,7 +2008,7 @@
     },
     "7a31ccbc-7dcf-b94c-91a3-b15c01079084": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 4.mesh.nasset/Lamps Floor 02 4 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2016,7 +2016,7 @@
     },
     "7a5c3533-ca28-ce0b-e9ec-57c2e15e00cc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 6.mesh.nasset/Ornament Door Floor 02 6 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2041,7 +2041,7 @@
     },
     "7de217a2-97b1-fd16-2721-f61bf13c7d9a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 4.mesh.nasset/Lamps Floor 01 4 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2049,7 +2049,7 @@
     },
     "7e0bd443-7fc1-7194-cec7-c00f4e29c269": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 10.mesh.nasset/Ornament Door Floor 02 10 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2057,7 +2057,7 @@
     },
     "7e5f8b43-eac6-716c-952f-128eca975997": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 5.mesh.nasset/Roof Floor 03 5 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2065,7 +2065,7 @@
     },
     "7e9ccb03-77ff-7fc4-2452-77da1a7326d6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 4.mesh.nasset/Ornament Doors Floor 01 4 Door Stone Frame 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2073,7 +2073,7 @@
     },
     "7ee435ed-6cf1-f6d6-4fb5-de36e81e0b42": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Decals Floor 02.mesh.nasset/Decals Floor 02 Decal Dirt.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2089,7 +2089,7 @@
     },
     "800666f8-0f06-5b68-1f2b-1ce06a92657a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 12.mesh.nasset/Ornament Door Floor 02 12 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2105,7 +2105,7 @@
     },
     "8115bcb0-a153-7512-0fac-6eae7f00a539": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Arch Stones Floor 01 1.mesh.nasset/Arch Stones Floor 01 1 Arch Stone Wall.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2129,7 +2129,7 @@
     },
     "818aea23-84df-4168-d4f9-69e4b42cbc2a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 12.mesh.nasset/Lamps Floor 01 12 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2137,7 +2137,7 @@
     },
     "8239fc40-74ff-fa94-3eb6-1b6988181f92": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 5.mesh.nasset/Lamps Floor 01 5 Light Bulb.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2145,7 +2145,7 @@
     },
     "82b86ad5-0810-7bc4-f685-7e1be58c4c49": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Walls Floor 01.mesh.nasset/Walls Floor 01 Door Stone Frame 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2165,7 +2165,7 @@
     },
     "84e15ad1-ff7c-caf0-f15d-27a870c1bdf1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 13.mesh.nasset/Ornament Door Floor 02 13 Door Stone Frame 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2177,7 +2177,7 @@
     },
     "858647c2-6df2-7e8e-6372-f8ae93e58fe2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 1.mesh.nasset/Roof Floor 03 1 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2185,7 +2185,7 @@
     },
     "858977ef-528d-36d7-bd8a-3d2556f10afc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 5.mesh.nasset/Lamps Floor 01 5 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2209,7 +2209,7 @@
     },
     "87766c96-8b02-f2f0-f8f2-b7a4d32c70cf": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 2.mesh.nasset/Ornament Door Floor 02 2 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2217,7 +2217,7 @@
     },
     "8844d598-3d9a-d361-bf4c-18dcb800a3e3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 5.mesh.nasset/Ornament Door Floor 02 5 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2229,7 +2229,7 @@
     },
     "8936488d-684c-130d-c5ed-157b198131ba": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 2.mesh.nasset/Lamps Floor 02 2 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2241,7 +2241,7 @@
     },
     "899ffa19-cf93-12f5-1185-8bf970c731ec": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 1.mesh.nasset/Ornament Doors Floor 01 1 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2253,7 +2253,7 @@
     },
     "8a1ded30-71d7-449c-fefe-d40b1cb82891": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 8.mesh.nasset/Ornament Door Floor 02 8 Door Stone Frame 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2285,7 +2285,7 @@
     },
     "8bd5c36d-7384-e89d-eeec-334759c77a53": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 7.mesh.nasset/Ornament Door Floor 02 7 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2293,7 +2293,7 @@
     },
     "8c47faac-563c-7b37-0e6b-5d33c40f16f5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Columns Floor 01 3.mesh.nasset/Columns Floor 01 3 Column Floor 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2309,7 +2309,7 @@
     },
     "8d409126-4cda-4d7d-ca8c-e94fbd3942fe": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 9.mesh.nasset/Lamps Floor 01 9 Light Bulb.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2317,7 +2317,7 @@
     },
     "8db9f3eb-04f5-1932-8a47-65f74ad33f58": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lionhead Floor 01.mesh.nasset/Lionhead Floor 01 Ornament Lion.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2325,7 +2325,7 @@
     },
     "8df35bde-0d11-409c-0461-bd61adf047d1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 13.mesh.nasset/Ornament Door Floor 02 13 Window Frame.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2333,7 +2333,7 @@
     },
     "8f4ecdc6-654e-7aca-3537-38b6d28b3e4d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 7.mesh.nasset/Lamps Floor 02 7 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2341,7 +2341,7 @@
     },
     "8f6ac47b-8a2e-cf81-961b-a1b1cab89642": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 1.mesh.nasset/Roof Floor 03 1 Brick Wall 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2349,7 +2349,7 @@
     },
     "90075c0c-221e-6a5e-e7aa-ae52bd8dd26d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 11.mesh.nasset/Lamps Floor 01 11 Light Bulb.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2365,7 +2365,7 @@
     },
     "915606b2-dea3-211a-9a90-ea42540fae32": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 4.mesh.nasset/Ornament Doors Floor 01 4 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2377,7 +2377,7 @@
     },
     "9210cdae-259d-ad96-db6e-14e87cd21a7f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Walls Floor 03.mesh.nasset/Walls Floor 03 Door Stone Frame 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2385,7 +2385,7 @@
     },
     "924fdf56-6244-d621-c325-0652611480f7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain Hanging 06.mesh.nasset/Curtain Hanging 06 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2393,7 +2393,7 @@
     },
     "92752fba-bd87-81b7-b4f1-cce69be91e62": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 9.mesh.nasset/Lamps Floor 01 9 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2401,7 +2401,7 @@
     },
     "92ec5823-1056-7a4e-ac45-2cb5de52468f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Arch Stones Floor 01 3.mesh.nasset/Arch Stones Floor 01 3 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2431,7 +2431,7 @@
     },
     "96c0bdb5-ac47-2709-db2f-e73499e43510": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 1.mesh.nasset/Ornament Doors Floor 01 1 Door Stone Frame 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2439,7 +2439,7 @@
     },
     "96cab663-465c-2d2c-a5cb-358401dba3cd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 15.mesh.nasset/Ornament Door Floor 02 15 Door Stone Frame 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2447,7 +2447,7 @@
     },
     "97182847-0369-807e-1256-88f2ae49f4ae": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Column Floor 02 4.mesh.nasset/Column Floor 02 4 Stone Trim 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2455,7 +2455,7 @@
     },
     "9781ebce-7c84-c304-e753-ab764e692b1b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 13.mesh.nasset/Lamps Floor 01 13 Light Bulb.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2463,7 +2463,7 @@
     },
     "9786f884-e497-3aeb-dd17-0519cb528be9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Eyes.mesh.nasset",
         "thumbnail": "91c8806d-4f25-c0ae-552b-df2c9fd9bc35",
         "tags": [
@@ -2484,7 +2484,7 @@
     },
     "992704bf-c617-d745-75d2-3f6a50e8b6aa": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Walls Floor 01.mesh.nasset/Walls Floor 01 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2504,7 +2504,7 @@
     },
     "99b18cca-840f-37a1-b638-f6100e18ecf0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Walls Floor 01.mesh.nasset/Walls Floor 01 Floor.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2512,7 +2512,7 @@
     },
     "9a39a160-e057-8d5d-cbad-76afeb587591": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 8.mesh.nasset/Lamps Floor 01 8 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2520,7 +2520,7 @@
     },
     "9b10226f-e368-f65e-91b0-bb855ce2fa67": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 2.mesh.nasset/Lamps Floor 01 2 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2540,7 +2540,7 @@
     },
     "9b974ef2-8d6b-e98f-8d83-33b19e40db95": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ceiling Floor 01 2.mesh.nasset/Ceiling Floor 01 2 Stone Trim 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2556,7 +2556,7 @@
     },
     "9f0d1295-a58c-47a1-34ac-5bff001d6acb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 08.mesh.nasset/Curtain 08 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2564,7 +2564,7 @@
     },
     "9f15f971-8ede-b9bb-b07d-ca517accdd7d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 9.mesh.nasset/Ornament Door Floor 02 9 Door Stone Frame 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2572,7 +2572,7 @@
     },
     "a0025ad4-b166-899b-129a-b7cd0e165312": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 14.mesh.nasset/Ornament Door Floor 02 14 Brick Wall 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2580,7 +2580,7 @@
     },
     "a0c5d77e-cedb-34fb-45e3-ae60dff02728": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Stones Floor 01.mesh.nasset/Ornament Stones Floor 01 Stone Trim 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2604,7 +2604,7 @@
     },
     "a3e89306-1447-5b48-730f-192e9d4d6618": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 04.mesh.nasset/Curtain 04 Curtain Red.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2612,7 +2612,7 @@
     },
     "a45eea06-bfd6-7c58-d56f-3e74bb81b33c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 12.mesh.nasset/Ornament Door Floor 02 12 Brick Wall 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2624,7 +2624,7 @@
     },
     "a4a954dc-6141-6cfd-8839-3c19627b2822": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 15.mesh.nasset/Ornament Door Floor 02 15 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2632,7 +2632,7 @@
     },
     "a4b18757-6a5f-aa50-6021-4a58a49e655c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain Hanging 01.mesh.nasset/Curtain Hanging 01 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2644,7 +2644,7 @@
     },
     "a5865565-33b3-a3b4-d507-48e7659b02d4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 9.mesh.nasset/Ornament Doors Floor 01 9 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2660,7 +2660,7 @@
     },
     "a5f5ff09-dcac-70cc-dc77-1e20c7e5b775": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 10.mesh.nasset/Ornament Doors Floor 01 10 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2668,7 +2668,7 @@
     },
     "a6281629-8df4-a702-1a33-b484ddfca0c3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Column Floor 02 4.mesh.nasset/Column Floor 02 4 Column Head Floor 03.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2684,7 +2684,7 @@
     },
     "a790a949-2ea6-bf77-7159-a8fce631c5bc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Walls Floor 01.mesh.nasset/Walls Floor 01 Stones Floor 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2705,7 +2705,7 @@
     },
     "a83c5923-219b-befa-eafe-0921c7a91ff6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 9.mesh.nasset/Ornament Door Floor 02 9 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2713,7 +2713,7 @@
     },
     "a87d5ab8-a914-0e97-4449-b09064ae6925": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 3.mesh.nasset/Lamps Floor 01 3 Light Bulb.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2721,7 +2721,7 @@
     },
     "a9084364-6c3b-a2f4-eb14-94a9ae380d59": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 6.mesh.nasset/Ornament Doors Floor 01 6 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2729,7 +2729,7 @@
     },
     "a9a112fd-f727-c533-976e-c72524172396": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Columns Floor 01 3.mesh.nasset/Columns Floor 01 3 Column Head Floor 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2737,7 +2737,7 @@
     },
     "abad68df-7cd3-f81e-4e4b-b1a317fec3b7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 3.mesh.nasset/Lamps Floor 02 3 Light Bulb.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2745,7 +2745,7 @@
     },
     "ac43d058-aa62-28b2-43b7-e42c174c242c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain Hanging 04.mesh.nasset/Curtain Hanging 04 Curtain Red.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2753,7 +2753,7 @@
     },
     "ac4513fa-e2cd-2926-8c66-287380505ef8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Wood Door Floor 01.mesh.nasset/Wood Door Floor 01 Wood.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2785,7 +2785,7 @@
     },
     "ad81fa31-251e-9516-4150-e201e4d6beb7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 8.mesh.nasset/Roof Floor 03 8 Roof Tiles.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2801,7 +2801,7 @@
     },
     "ae501a08-9aed-e156-3f5e-96dbe6072bbd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 11.mesh.nasset/Ornament Door Floor 02 11 Brick Wall 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2817,7 +2817,7 @@
     },
     "af4407b4-48b5-80cc-9a1c-8962f93072e1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain Holder 02.mesh.nasset/Curtain Holder 02 Column Head Floor 03.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2825,7 +2825,7 @@
     },
     "aff14c92-9854-55d0-1970-28696d8dad7d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain Hanging 06.mesh.nasset/Curtain Hanging 06 Curtain Red.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2833,7 +2833,7 @@
     },
     "b02bb5a4-2342-e7d1-6e85-569f2b4f1c3a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ceiling Floor 01.mesh.nasset/Ceiling Floor 01 Stone Trim 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2841,7 +2841,7 @@
     },
     "b02bd510-222d-b6a7-b443-3a46afaf105e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Walls Floor 01.mesh.nasset/Walls Floor 01 Brick Wall 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2849,7 +2849,7 @@
     },
     "b0bfa1a1-ff65-5520-7a1a-cbdb4a8a4447": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 09.mesh.nasset/Curtain 09 Curtain Blue.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2857,7 +2857,7 @@
     },
     "b24b56a6-90c3-8923-8c14-ce1c7b79b97a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 2.mesh.nasset/Roof Floor 03 2 Roof Tiles.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2873,7 +2873,7 @@
     },
     "b3ffe71d-8083-c7ec-6ca9-8cb71f3404a1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 1.mesh.nasset/Lamps Floor 02 1 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2881,7 +2881,7 @@
     },
     "b4a546fc-6b17-3b64-08d2-051e7653abdb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 6.mesh.nasset/Lamps Floor 01 6 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2889,7 +2889,7 @@
     },
     "b5566233-8db5-4f4d-a4f3-93dfbbcf71e1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Windows.mesh.nasset/Ornament Windows Stone Trim 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2897,7 +2897,7 @@
     },
     "b58c4591-81fd-4746-864f-f5053d2d7d36": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 2.mesh.nasset/Lamps Floor 02 2 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2905,7 +2905,7 @@
     },
     "b5b68e78-6186-c7c9-e943-289804d3dd2e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 5.mesh.nasset/Lamps Floor 02 5 Light Bulb.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2913,7 +2913,7 @@
     },
     "b5ea3119-1b85-ea1c-5784-c482d386187d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamp Entrance Floor 01.mesh.nasset/Lamp Entrance Floor 01 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2921,7 +2921,7 @@
     },
     "b658cd5d-cc42-2bd4-5a91-0987a35a772d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Column Floor 02 19.mesh.nasset/Column Floor 02 19 Stone Trim 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2929,7 +2929,7 @@
     },
     "b66c244e-bbb5-3e01-7d8a-0acd1fed583f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 8.mesh.nasset/Roof Floor 03 8 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2945,7 +2945,7 @@
     },
     "b746fa08-269b-df12-3347-fdcff3ed0e37": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 13.mesh.nasset/Ornament Door Floor 02 13 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2953,7 +2953,7 @@
     },
     "b7571395-d6f5-923f-aa9e-407a90b496cc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 10.mesh.nasset/Ornament Door Floor 02 10 Door Stone Frame 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2973,7 +2973,7 @@
     },
     "b7a4dcaa-78ba-9961-9c53-4048b1fa68ac": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 1.mesh.nasset/Lamps Floor 02 1 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2989,7 +2989,7 @@
     },
     "b7f4411d-47e1-9a5e-5422-96c687ea56fd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Wood Door Floor 01.mesh.nasset/Wood Door Floor 01 Wood Door.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -2997,7 +2997,7 @@
     },
     "b80ae1b2-3163-1e41-8932-baa7745f58ba": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Arch Stones Floor 01 2.mesh.nasset/Arch Stones Floor 01 2 Stone Trim 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3009,7 +3009,7 @@
     },
     "b8231554-aceb-6996-0232-1ac7a9124426": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 7.mesh.nasset/Lamps Floor 02 7 Light Bulb.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3017,7 +3017,7 @@
     },
     "b83ad7c9-8eac-6dea-38d0-7ec28ba48fb7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Arch Wall Floor 02.mesh.nasset/Arch Wall Floor 02 Brick Wall 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3025,7 +3025,7 @@
     },
     "b85ecb26-c4ae-bfb2-3dd7-a5c743637394": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 10.mesh.nasset/Ornament Door Floor 02 10 Window Frame.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3041,7 +3041,7 @@
     },
     "b87adacb-6832-935b-be51-ba64dfd52dc1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Arch Stones Floor 01 3.mesh.nasset/Arch Stones Floor 01 3 Arch Stone Wall.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3049,7 +3049,7 @@
     },
     "b99a8549-92f3-053d-135f-b6726a3712a4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain Hanging 04.mesh.nasset/Curtain Hanging 04 Curtain Green.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3057,7 +3057,7 @@
     },
     "b9a46d74-6bad-9b87-5e50-ee89bacd3cf0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 1.mesh.nasset/Roof Floor 03 1 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3065,7 +3065,7 @@
     },
     "b9e0f872-87b2-90c4-7a02-9b70fbf522b0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Walls Floor 01.mesh.nasset/Walls Floor 01 Ceiling Plaster 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3073,7 +3073,7 @@
     },
     "ba491356-2df6-9433-8720-701655f1184a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Arch Stones Floor 01 3.mesh.nasset/Arch Stones Floor 01 3 Stone Trim 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3081,7 +3081,7 @@
     },
     "ba633fcb-cf0a-12a4-9e05-98f1573a1372": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Roof.mesh.nasset/Ornament Roof Stone Trim 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3097,7 +3097,7 @@
     },
     "bad49002-467f-5d54-74b7-0c5d40597062": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Walls Floor 03.mesh.nasset/Walls Floor 03 Stone Trim 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3113,7 +3113,7 @@
     },
     "bb2b4b7e-5ed4-5a70-37cd-aa8b2865deee": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Exterior.mesh.nasset/Exterior Brick Wall 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3121,7 +3121,7 @@
     },
     "bc8507b0-1841-369c-820a-510c96bedb22": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 15.mesh.nasset/Ornament Door Floor 02 15 Brick Wall 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3129,7 +3129,7 @@
     },
     "bca7e2f7-9070-02ba-0013-f714365cb616": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 13.mesh.nasset/Ornament Door Floor 02 13 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3137,7 +3137,7 @@
     },
     "bcb9582c-b8d5-a6ae-7b50-05f132d345cb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 7.mesh.nasset/Ornament Doors Floor 01 7 Door Stone Frame 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3166,7 +3166,7 @@
     },
     "be779627-74e3-1a5c-f508-7ef9e15043cc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Arch Wall Floor 02.mesh.nasset/Arch Wall Floor 02 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3174,7 +3174,7 @@
     },
     "bebae689-94c9-252f-4858-6755fde5e8ad": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 11.mesh.nasset/Lamps Floor 01 11 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3198,7 +3198,7 @@
     },
     "c09f25d4-48e1-cce2-40ee-419e558ae9d5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 9.mesh.nasset/Ornament Door Floor 02 9 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3219,7 +3219,7 @@
     },
     "c15f39a7-23c9-251f-fc05-01f5d94538d0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Sponza.mesh.nasset/Ornament Sponza Ornament.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3227,7 +3227,7 @@
     },
     "c1c84e94-aee1-ce27-c699-60879cea20fb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 4.mesh.nasset/Ornament Door Floor 02 4 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3235,7 +3235,7 @@
     },
     "c2b0c800-e530-06be-95c3-a934dee04904": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamp Entrance Floor 01.mesh.nasset/Lamp Entrance Floor 01 Column Head Floor 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3247,7 +3247,7 @@
     },
     "c34daf0b-d45f-1db7-4e07-9a5fd1b0f2c7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 2.mesh.nasset/Lamps Floor 01 2 Light Bulb.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3255,7 +3255,7 @@
     },
     "c3877f74-0de4-58f0-f1d6-381de2a6f7c0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 06.mesh.nasset/Curtain 06 Curtain Red.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3267,7 +3267,7 @@
     },
     "c44fa8cf-43b0-d50d-e617-75fd45932a4f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain Hanging 01.mesh.nasset/Curtain Hanging 01 Curtain Red.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3275,7 +3275,7 @@
     },
     "c465672b-2b4a-d864-dbf0-548adb040291": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Walls Floor 01.mesh.nasset/Walls Floor 01 Window Frame.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3287,7 +3287,7 @@
     },
     "c4bbf66f-39da-1fe1-32c6-5bf45e0b41ab": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 4.mesh.nasset/Lamps Floor 01 4 Light Bulb.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3319,7 +3319,7 @@
     },
     "c83eb687-028b-675a-5e38-449f2c4acea2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Walls Floor 01.mesh.nasset/Walls Floor 01 Arch Stone Wall.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3359,7 +3359,7 @@
     },
     "cb6fcda8-fbcf-2558-eab5-06449f34b480": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 13.mesh.nasset/Lamps Floor 01 13 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3367,7 +3367,7 @@
     },
     "cb923cf1-3bd4-907b-813a-0a5b71383316": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 3.mesh.nasset/Ornament Door Floor 02 3 Window Frame.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3375,7 +3375,7 @@
     },
     "cba569eb-8b56-d82f-b866-1e77e9cca1de": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 1.mesh.nasset/Ornament Door Floor 02 1 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3383,7 +3383,7 @@
     },
     "cbaa1af8-d8de-bbbe-8a1e-bffe3708d6d2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 11.mesh.nasset/Ornament Door Floor 02 11 Window Frame.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3391,7 +3391,7 @@
     },
     "cc3399ca-e4eb-8372-983f-4a6d58fb6544": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 1.mesh.nasset/Roof Floor 03 1 Roof Tiles.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3411,7 +3411,7 @@
     },
     "ccf2672d-e60b-133a-547f-4b1eade22d7b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 4.mesh.nasset/Roof Floor 03 4 Roof Tiles.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3423,7 +3423,7 @@
     },
     "ce19aae4-782e-6582-ce39-e2a19f0c629b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 1.mesh.nasset/Lamps Floor 01 1 Light Bulb.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3431,7 +3431,7 @@
     },
     "ce388004-7c79-bc1f-8545-c821c8ea6b2f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 04.mesh.nasset/Curtain 04 Curtain Blue.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3439,7 +3439,7 @@
     },
     "ce8ebf6e-e18e-9ca2-912b-bae800fa52e9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Column Floor 02.mesh.nasset/Column Floor 02 Column Head Floor 03.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3467,7 +3467,7 @@
     },
     "d2327bc1-0be0-b38a-206c-c19df92bf160": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Stone Walls Floor 02.mesh.nasset/Stone Walls Floor 02 Brick Wall 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3491,7 +3491,7 @@
     },
     "d3130aea-328a-2eaa-d163-f28d5cd2c1d9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 12.mesh.nasset/Ornament Door Floor 02 12 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3499,7 +3499,7 @@
     },
     "d393274b-76ae-5f8b-4f76-c7071bdd0cd7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Wooden Parts Floor 01.mesh.nasset/Wooden Parts Floor 01 Wood.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3507,7 +3507,7 @@
     },
     "d3c9bfde-f5bf-450d-0182-2049e88d77cf": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain Hanging 03.mesh.nasset/Curtain Hanging 03 Curtain Red.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3515,7 +3515,7 @@
     },
     "d41088b2-7996-7ff7-8362-4e3f01d229d9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 4.mesh.nasset/Ornament Door Floor 02 4 Arch Stone Wall.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3523,7 +3523,7 @@
     },
     "d4bde9ae-adbe-9d9e-adc8-ea19e0c35b93": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 1.mesh.nasset/Ornament Door Floor 02 1 Door Stone Frame 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3547,7 +3547,7 @@
     },
     "d529f5a8-566e-59c9-8ffd-cac635f9e85f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 05.mesh.nasset/Curtain 05 Curtain Blue.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3560,7 +3560,7 @@
     },
     "d57b8bde-f7c8-e042-8b97-a7c2952894a5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 6.mesh.nasset/Ornament Doors Floor 01 6 Door Stone Frame 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3589,7 +3589,7 @@
     },
     "d72d62c8-9b4c-504a-4fbb-7b79bc0d533d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 02.mesh.nasset/Curtain 02 Curtain Red.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3597,7 +3597,7 @@
     },
     "d73be6be-d9d5-f600-54c3-e40742f052f5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 3.mesh.nasset/Ornament Doors Floor 01 3 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3605,7 +3605,7 @@
     },
     "d786df10-31b8-f0c1-e4ad-771f1d0f68c2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain Hanging 06.mesh.nasset/Curtain Hanging 06 Curtain Green.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3621,7 +3621,7 @@
     },
     "d8f85100-543d-a169-461d-b09f88dedf85": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 14.mesh.nasset/Ornament Door Floor 02 14 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3629,7 +3629,7 @@
     },
     "d979bce6-1a68-0a76-a110-ac3520f7cb69": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 3.mesh.nasset/Ornament Doors Floor 01 3 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3637,7 +3637,7 @@
     },
     "da56a9f4-e8ad-aea6-775d-02aec7b2d6af": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain 08.mesh.nasset/Curtain 08 Curtain Red.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3645,7 +3645,7 @@
     },
     "da863b01-690c-d4a3-f814-74f8748f531b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 2.mesh.nasset/Lamps Floor 02 2 Light Bulb.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3665,7 +3665,7 @@
     },
     "dc23cdb2-089d-4eb8-f4d1-15bc52206586": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Columns Floor 01 4.mesh.nasset/Columns Floor 01 4 Column Head Floor 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3681,7 +3681,7 @@
     },
     "dc90bca1-acac-8e03-0f54-0098aa14b42a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 8.mesh.nasset/Ornament Doors Floor 01 8 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3689,7 +3689,7 @@
     },
     "dd4b6c7a-3436-2c06-9a7c-401cc1995ac8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 4.mesh.nasset/Ornament Doors Floor 01 4 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3701,7 +3701,7 @@
     },
     "de8cf7c4-32fb-363d-df8e-aa3a3142d05e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 8.mesh.nasset/Ornament Door Floor 02 8 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3717,7 +3717,7 @@
     },
     "df12a89c-87e6-3a4e-34c0-b399a25cc6a7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Exterior.mesh.nasset/Exterior Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3729,7 +3729,7 @@
     },
     "df27303e-dc43-b944-5146-4972a9e61aa3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 11.mesh.nasset/Ornament Door Floor 02 11 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3737,7 +3737,7 @@
     },
     "e0a6cbd1-6bd9-7ff1-32af-f0d8e8e781d1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 2.mesh.nasset/Ornament Door Floor 02 2 Brick Wall 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3745,7 +3745,7 @@
     },
     "e276cbf7-d72c-29a9-2181-9d638021f08a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Column Floor 02 20.mesh.nasset/Column Floor 02 20 Stone Trim 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3753,7 +3753,7 @@
     },
     "e2cee78f-006e-013f-8eb9-41bd9440e249": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 10.mesh.nasset/Ornament Door Floor 02 10 Brick Wall 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3761,7 +3761,7 @@
     },
     "e32c2ed7-7646-494b-c39e-ec029e1efd38": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 3.mesh.nasset/Ornament Door Floor 02 3 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3777,7 +3777,7 @@
     },
     "e5100a69-ca48-4d01-b13c-393698f00bd6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ceiling Floor 02.mesh.nasset/Ceiling Floor 02 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3793,7 +3793,7 @@
     },
     "e66e62f3-cfb3-4349-481d-143ddf846698": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 1.mesh.nasset/Ornament Door Floor 02 1 Window Frame.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3801,7 +3801,7 @@
     },
     "e6b117c8-58b5-025d-e205-1d495ef3a0b4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 5.mesh.nasset/Ornament Door Floor 02 5 Window Frame.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3809,7 +3809,7 @@
     },
     "e6dc3c4a-be8d-4070-ce46-22239f7f56b6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 4.mesh.nasset/Lamps Floor 02 4 Light Bulb.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3826,7 +3826,7 @@
     },
     "e8b93cbe-88f3-46bf-3960-a83bdf7ca3dc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 11.mesh.nasset/Ornament Door Floor 02 11 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3834,7 +3834,7 @@
     },
     "e8bc826c-2dc8-f5bd-f2a0-c32bb395d60e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 10.mesh.nasset/Ornament Doors Floor 01 10 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3854,7 +3854,7 @@
     },
     "e9626337-906c-47ad-d137-619b44b4d407": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Column Floor 02 8.mesh.nasset/Column Floor 02 8 Stone Trim 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3862,7 +3862,7 @@
     },
     "e99a9712-7c4b-4905-f6f9-3e65814b71e8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 3.mesh.nasset/Lamps Floor 01 3 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3878,7 +3878,7 @@
     },
     "e9ecaed2-e68d-5e68-5358-05e5fe5c2468": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 10.mesh.nasset/Ornament Doors Floor 01 10 Stones Floor 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3894,7 +3894,7 @@
     },
     "ea051303-264c-414e-e13b-6880b74c6941": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 13.mesh.nasset/Lamps Floor 01 13 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3910,7 +3910,7 @@
     },
     "ea20ca2e-0fff-cd57-0b67-86a491257b28": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 9.mesh.nasset/Ornament Door Floor 02 9 Window Frame.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3918,7 +3918,7 @@
     },
     "eac6bd29-fe02-9010-5d24-fd1d184b3b88": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 3.mesh.nasset/Ornament Door Floor 02 3 Brick Wall 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3926,7 +3926,7 @@
     },
     "ebb697f8-e6d4-0584-6ce7-8d2c97c65f26": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 7.mesh.nasset/Ornament Doors Floor 01 7 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3957,7 +3957,7 @@
     },
     "ed92a89e-5838-d2e3-ccdd-94afa827d869": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 02 5.mesh.nasset/Lamps Floor 02 5 Lamp Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3969,7 +3969,7 @@
     },
     "eda62cb2-461e-4114-c467-3d7beca1f271": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Columns Floor 01 2.mesh.nasset/Columns Floor 01 2 Column Head Floor 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3977,7 +3977,7 @@
     },
     "ede7abb8-659e-e530-6cbc-c3138434a6af": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 11.mesh.nasset/Ornament Door Floor 02 11 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -3985,7 +3985,7 @@
     },
     "ee436b4a-45a6-a3ec-2344-8eadf40483f2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 1.mesh.nasset/Roof Floor 03 1 Window Frame.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4001,7 +4001,7 @@
     },
     "efc10eda-589a-1978-ff4c-4ce8f569580d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Black.mesh.nasset",
         "thumbnail": "8d32b6ac-f7b7-1fb1-a1c8-9ec6e8ca07a7",
         "tags": [
@@ -4018,7 +4018,7 @@
     },
     "effd0ae8-10d9-bee6-2239-e66a2636b905": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 12.mesh.nasset/Ornament Door Floor 02 12 Door Stone Frame 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4026,7 +4026,7 @@
     },
     "f06b5519-c97c-3997-edbb-f0a3b2be236f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ceiling Floor 02.mesh.nasset/Ceiling Floor 02 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4034,7 +4034,7 @@
     },
     "f06d42a6-a926-1728-23d2-7e87d3c375f5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 1.mesh.nasset/Ornament Door Floor 02 1 Brick Wall 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4042,7 +4042,7 @@
     },
     "f1c8be77-d885-b6e2-191b-e04d10ea95d9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 7.mesh.nasset/Lamps Floor 01 7 Light Bulb.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4050,7 +4050,7 @@
     },
     "f2174f78-3c1d-4ff3-c30a-790eb6765080": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 7.mesh.nasset/Lamps Floor 01 7 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4058,7 +4058,7 @@
     },
     "f2840c40-77aa-01d9-8ec1-b2d8e2020a8a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Walls Floor 03.mesh.nasset/Walls Floor 03 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4070,7 +4070,7 @@
     },
     "f433ae75-9a7b-849d-5f19-9254ab00f43f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 15.mesh.nasset/Ornament Door Floor 02 15 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4094,7 +4094,7 @@
     },
     "f5d62e66-a317-617c-ffae-ebcf0ef02a55": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Lamps Floor 01 8.mesh.nasset/Lamps Floor 01 8 Light Bulb.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4114,7 +4114,7 @@
     },
     "f6825d75-a1ee-a6b1-2feb-6fc646e1cff7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Roof Floor 03 3.mesh.nasset/Roof Floor 03 3 Stones Tile.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4122,7 +4122,7 @@
     },
     "f70abce7-a66a-ed99-4da2-2b742005333e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Columns Floor 01 5.mesh.nasset/Columns Floor 01 5 Column Floor 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4142,7 +4142,7 @@
     },
     "f881f813-7d87-2c79-a6cd-e45038ed9aca": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 2.mesh.nasset/Ornament Doors Floor 01 2 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4150,7 +4150,7 @@
     },
     "f9086839-a351-7631-a9d7-4bcf82f54bcc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 5.mesh.nasset/Ornament Door Floor 02 5 Brick Wall 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4166,7 +4166,7 @@
     },
     "f9e4be90-12c5-5be5-8508-e17ec9d3c397": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 6.mesh.nasset/Ornament Doors Floor 01 6 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4174,7 +4174,7 @@
     },
     "f9e59571-df65-debd-07a5-71a8a475e0bc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Windows.mesh.nasset/Ornament Windows Door Stone Frame 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4182,7 +4182,7 @@
     },
     "faf76f4b-80c7-1873-9634-0c9b18fea1f7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Column Floor 02 20.mesh.nasset/Column Floor 02 20 Column Brick Wall 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4190,7 +4190,7 @@
     },
     "fb3a9dcc-7e87-01a8-bd56-88c1d142c7c6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Walls Floor 01.mesh.nasset/Walls Floor 01 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4198,7 +4198,7 @@
     },
     "fc133eb6-2be6-5869-1aae-7265455a67ab": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain Hanging 03.mesh.nasset/Curtain Hanging 03 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4206,7 +4206,7 @@
     },
     "fc79e65b-a180-4eba-12b4-1717d2e7ec25": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 2.mesh.nasset/Ornament Door Floor 02 2 Window Frame.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4214,7 +4214,7 @@
     },
     "fca739f3-3537-aec4-d4c6-54821dedc30b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ceiling Floor 01 2.mesh.nasset/Ceiling Floor 01 2 Window Frame.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4222,7 +4222,7 @@
     },
     "fccedebf-033b-21ea-a2d8-e4f079f5f215": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 2.mesh.nasset/Ornament Door Floor 02 2 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4230,7 +4230,7 @@
     },
     "fe2b3bde-55b8-f479-d4b5-ba3f59fabf33": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 2.mesh.nasset/Ornament Door Floor 02 2 Door Stone Frame 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4238,7 +4238,7 @@
     },
     "fe9e5abb-0d2b-682c-0c04-b0fe4c45b39d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 1.mesh.nasset/Ornament Door Floor 02 1 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4246,7 +4246,7 @@
     },
     "ff131784-05d7-4d28-2f66-300ce8061f80": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Door Floor 02 10.mesh.nasset/Ornament Door Floor 02 10 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4254,7 +4254,7 @@
     },
     "ff1696fb-debc-2f8a-5c44-9b0fb4a411b3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Curtain Hanging 02.mesh.nasset/Curtain Hanging 02 Curtain Red.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
@@ -4262,7 +4262,7 @@
     },
     "ff7eaa5b-62bf-5279-9f3b-a1536283dd21": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+        "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
         "path": "Assets/Scene/SC_Sponza.scene.nasset/Ornament Doors Floor 01 1.mesh.nasset/Ornament Doors Floor 01 1 Metal Door 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
