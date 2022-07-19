@@ -30,6 +30,24 @@
             }
         },
         {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "007ee408-9c9e-7c60-7f9e-f7938ba3280c",
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "007ee408-9c9e-7c60-7f9e-f7938ba3280c"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Lights",
+                    "flags": 4
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "47c942d2-9be0-6fca-f746-2a32fb996214"
+            }
+        },
+        {
             "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
             "instanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {

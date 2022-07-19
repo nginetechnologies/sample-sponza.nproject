@@ -38,8 +38,8 @@
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                         "position": [
                             0,
-                            -2,
-                            0.75
+                            -4,
+                            1.5
                         ],
                         "rotation": [
                             -20.0,
@@ -71,6 +71,10 @@
                     "a413cecf-a566-413d-bb01-bd1317cd4bb2": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
                     },
+					"ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
+						"type": 2,
+						"layer": 1
+					},
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",

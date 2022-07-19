@@ -547,6 +547,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "1db2e3e3-2de8-da0e-377f-98922dd52368": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/stone_trims_02_BaseColor.tex.nasset"
+    },
     "1e93fc33-311e-0c76-1e8c-a64c14ce1281": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
@@ -554,6 +558,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "1f16e940-0f83-559e-be0c-142e439d011b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/column_1stfloor_Normal.tex.nasset"
     },
     "20359106-4302-cab6-ea70-115f9d8f8132": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -572,6 +580,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "20bcd13d-468d-fc3e-97cd-ad9e0ccc168f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/column_head_1stfloor_Roughness.tex.nasset"
     },
     "219c3299-b148-7294-09e6-1b2f29bfe842": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -820,6 +832,10 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "3175c6d5-8166-57bb-b1ff-862456fd1804": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/stone_trims_02_Normal.tex.nasset"
+    },
     "31b66c2b-da9f-9bce-a1dc-665b70fd1e90": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
@@ -1013,6 +1029,10 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "3e4712bd-764b-21a5-ef0c-1eef9c6653ae": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/door_stoneframe_02_Normal.tex.nasset"
+    },
     "3f2cd65a-9e06-647e-e63a-2b9b759ef14e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
@@ -1103,6 +1123,10 @@
         "path": "Project.nproject",
         "thumbnail": "23dd1fce-3540-4d16-a54a-9a7d9888cf77"
     },
+    "46938809-f846-0462-172e-1e8d21fe6d09": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/ceiling_plaster_02_Roughness.tex.nasset"
+    },
     "46a60c2e-ed46-cf4a-7183-aacbcaa7f868": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
@@ -1135,6 +1159,11 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "47c942d2-9be0-6fca-f746-2a32fb996214": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Sponza_Lights.scene.nasset/SC_Sponza_Lights.scene.nasset"
+    },
     "491a18c8-6fe1-e6fb-0b16-49fccfabd2e2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1166,6 +1195,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "49aa2aa4-7474-c2b0-101c-076665246ee4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/column_1stfloor_Metalness.tex.nasset"
     },
     "49f51cb5-d985-f50e-9f6a-f609609588b0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1258,6 +1291,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "4d4bb10e-b6a9-1841-c28e-b88e2e17b302": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/stone_trims_02_Metalness.tex.nasset"
     },
     "4d5cecab-055e-abe1-4582-dc30f793018b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1403,6 +1440,10 @@
     "5433001e-b491-a888-c782-940418bef7d4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Column Head Floor 03.mtli.nasset"
+    },
+    "54b804d1-fcf9-0f81-5946-cb42e81daff1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/column_head_1stfloor_Metalness.tex.nasset"
     },
     "54d5dc58-4624-940c-e5b6-5dd8d15459e3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1574,6 +1615,10 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Column Head Floor 01.mtli.nasset"
     },
+    "5d6bbdf6-abf1-3e18-44be-25b5c2f6d4c1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/lionhead_01_Normal.tex.nasset"
+    },
     "5db36223-fc29-870d-785d-098d1103bd32": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1642,10 +1687,6 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
-    },
-    "62345e93-2d18-e022-6cfe-7cc7907a5591": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Scene/Material Instances/Decal Dirt.mtli.nasset"
     },
     "62464a45-2649-7ab2-c329-5f6b24740ba2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1831,6 +1872,10 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Stone Trim 02.mtli.nasset"
     },
+    "6c4aaa03-9ae1-32d1-956f-5228febf6bf1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/lionhead_01_BaseColor.tex.nasset"
+    },
     "6ca09e11-1e39-5c7c-a7ab-8bdd6cf70135": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Window Frame.mtli.nasset"
@@ -1994,6 +2039,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "78a0f0bc-d2e4-942e-7231-574c3fc9976a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/column_1stfloor_BaseColor.tex.nasset"
+    },
     "78a6cb5f-0a2d-7946-5b2c-40448c4ac86a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2046,6 +2095,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "7dfdb51d-6dc0-047e-7b73-8b087f4de750": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/lionhead_01_Roughness.tex.nasset"
     },
     "7e0bd443-7fc1-7194-cec7-c00f4e29c269": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2158,6 +2211,10 @@
     "84a997d3-7128-348a-f1e7-48a0c6266ba8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/Textures/curtain_fabric_Normal.tex.nasset"
+    },
+    "84aeb395-de03-7b46-6efe-c9bc0f7b8201": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/column_head_1stfloor_Normal.tex.nasset"
     },
     "84df1eb3-d113-e0aa-2e4b-e7fc15d13309": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2445,6 +2502,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "96e149a8-221c-b05d-9819-5222d687d886": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/door_stoneframe_02_Metalness.tex.nasset"
+    },
     "97182847-0369-807e-1256-88f2ae49f4ae": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
@@ -2509,6 +2570,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "9a09c08a-dba3-a47a-3c18-bf8220010de0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/door_stoneframe_02_BaseColor.tex.nasset"
     },
     "9a39a160-e057-8d5d-cbad-76afeb587591": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2854,6 +2919,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "b187614e-b56d-a89f-1ddd-ba47412527bf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/column_1stfloor_Roughness.tex.nasset"
     },
     "b24b56a6-90c3-8923-8c14-ce1c7b79b97a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3389,6 +3458,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "cbef0271-e4fc-9fe9-9adc-a9dd1c7b9793": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/stone_trims_02_Roughness.tex.nasset"
+    },
     "cc3399ca-e4eb-8372-983f-4a6d58fb6544": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "ac11f104-0d79-4ecf-bae5-dbbbb344ad19",
@@ -3449,6 +3522,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Thumbnails/SK Robot Export.mesh.nasset.tex.nasset"
     },
+    "cf8300fb-33c1-5ad4-5644-2a584506223c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/column_head_1stfloor_BaseColor.tex.nasset"
+    },
     "d035263e-4669-1f93-d013-5d948cb01e89": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3488,6 +3565,10 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "d2d12aac-7e72-c0b9-44dd-c187a51a8b5f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/lionhead_01_Metalness.tex.nasset"
     },
     "d3130aea-328a-2eaa-d163-f28d5cd2c1d9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3820,6 +3901,10 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Walk.anim.nasset"
     },
+    "e8861bb2-6ae0-0ddf-5cac-f2d246f15d1b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/door_stoneframe_02_Roughness.tex.nasset"
+    },
     "e8b807da-4524-77bf-560b-186f5fc6b153": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Lamp Glass.mtli.nasset"
@@ -3875,6 +3960,10 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "e9c4714a-bdb3-1e74-e689-646f8e7e907c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/textures/ceiling_plaster_02_BaseColor.tex.nasset"
     },
     "e9ecaed2-e68d-5e68-5358-05e5fe5c2468": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",

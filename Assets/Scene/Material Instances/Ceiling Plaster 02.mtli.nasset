@@ -4,7 +4,7 @@
     "material": "ade8b81e-1edf-443a-8af7-37473edf1390",
     "descriptor_contents": [
         {
-            "texture": "00000001-0001-0000-0100-000001000000",
+            "texture": "e9c4714a-bdb3-1e74-e689-646f8e7e907c",
             "address_mode": 1
         },
         {
@@ -16,7 +16,7 @@
             "address_mode": 1
         },
         {
-            "texture": "00000001-0001-0000-0100-000001000000",
+            "texture": "46938809-f846-0462-172e-1e8d21fe6d09",
             "address_mode": 1
         }
     ]

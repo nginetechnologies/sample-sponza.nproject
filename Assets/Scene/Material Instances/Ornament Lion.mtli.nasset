@@ -4,19 +4,19 @@
     "material": "ade8b81e-1edf-443a-8af7-37473edf1390",
     "descriptor_contents": [
         {
-            "texture": "00000001-0001-0000-0100-000001000000",
+            "texture": "6c4aaa03-9ae1-32d1-956f-5228febf6bf1",
             "address_mode": 1
         },
         {
-            "texture": "00000001-0001-0000-0100-000001000000",
+            "texture": "5d6bbdf6-abf1-3e18-44be-25b5c2f6d4c1",
             "address_mode": 1
         },
         {
-            "texture": "00000001-0001-0000-0100-000001000000",
+            "texture": "d2d12aac-7e72-c0b9-44dd-c187a51a8b5f",
             "address_mode": 1
         },
         {
-            "texture": "00000001-0001-0000-0100-000001000000",
+            "texture": "7dfdb51d-6dc0-047e-7b73-8b087f4de750",
             "address_mode": 1
         }
     ]

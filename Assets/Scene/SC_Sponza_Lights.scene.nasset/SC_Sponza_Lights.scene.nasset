@@ -1,0 +1,178 @@
+{
+    "guid": "47c942d2-9be0-6fca-f746-2a32fb996214",
+    "source": "../SC_Sponza_Lights.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "97a0486f-e9d0-7f3c-1a50-304ca3f60ee1",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SC_Sponza_Lights"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
+            "instanceGuid": "07c10295-cd28-2dc8-aca8-ec28c0e560d0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sun"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    90.0349,
+                    -0.0,
+                    180.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e": {
+                "color": "#fffce4",
+                "cascades": 4,
+                "intensity": 2.0
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "fee39164-b28f-1292-4015-1ba731920a2a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Point"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    4.9987,
+                    0.0,
+                    3.5236
+                ],
+                "rotation": [
+                    90.0349,
+                    -0.0,
+                    180.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.2499,
+                "color": "#fffce4",
+                "intensity": 150.0
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "46706c44-b812-7088-690b-0228ea09973f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Point.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -4.9987,
+                    0.0,
+                    3.5236
+                ],
+                "rotation": [
+                    90.0349,
+                    -0.0,
+                    180.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.2499,
+                "color": "#fffce4",
+                "intensity": 150.0
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "4869e8e6-4e3f-f6de-29ae-4f150a60cb69",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Point.002"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.6539,
+                    0.0,
+                    2.183
+                ],
+                "rotation": [
+                    90.0349,
+                    -0.0,
+                    180.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.2499,
+                "color": "#fffce4",
+                "intensity": 49.9999
+            }
+        },
+        {
+            "typeGuid": "c720a57c-40c6-48a4-8f18-12d41e093616",
+            "instanceGuid": "a6b1d320-cb44-058f-4f86-5399cb4eb293",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Point.003"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -9.1354,
+                    0.0,
+                    7.0942
+                ],
+                "rotation": [
+                    90.0349,
+                    -0.0,
+                    180.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "f141b823-5844-4fbc-b106-0635ff52199c",
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                ]
+            },
+            "c720a57c-40c6-48a4-8f18-12d41e093616": {
+                "radius": 0.2499,
+                "color": "#fffce4",
+                "intensity": 49.9999
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "47c942d2-9be0-6fca-f746-2a32fb996214"
+    }
+}
