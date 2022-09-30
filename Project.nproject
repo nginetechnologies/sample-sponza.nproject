@@ -13,7 +13,6 @@
     "library_directory": "lib",
     "thumbnail_guid": "23dd1fce-3540-4d16-a54a-9a7d9888cf77",
     "default_scene": "7c84a05e-b8c5-419a-9632-13311960b33c",
-    "repository": "https://github.com/nginetechnologies/ngine-samples/tree/master/Sponza.nproject",
     "source": "Sponza.nproject",
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
