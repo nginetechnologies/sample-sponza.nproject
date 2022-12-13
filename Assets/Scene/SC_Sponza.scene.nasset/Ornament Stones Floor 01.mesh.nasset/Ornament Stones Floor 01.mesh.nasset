@@ -1,25 +1,30 @@
 {
-    "guid": "4582c198-7f5e-5b2f-55a7-154eed186fa5",
+    "guid": "e91ed92b-d868-2e34-ca38-f9f2fc3df95a",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "e0c8d698-4662-7a6f-6f3c-304053cb2e99",
+    "instanceGuid": "b8c290d4-2d60-d3ad-2ecb-ab198db91233",
+    "data_components": [],
     "children": [
         {
-            "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
-            "instanceGuid": "9d612445-6fd3-e8b0-0aed-9b4eda43c777",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "a5c8c730-1914-5309-8bd1-e5e3dcd746e2",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Stones Floor 01 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "c75c980e-32cb-ab9b-259b-857d3b3f523f",
+                    "instanceGuid": "f7b6d272-8d7c-40c7-4e55-31e03e339cf5",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -29,7 +34,7 @@
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "fd10a2e5-931b-12b7-fb04-57b69e63f96b",
+                            "instanceGuid": "fbf74dac-4f06-ed92-2807-8fdf2c5fd88f",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -43,13 +48,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "a0c5d77e-cedb-34fb-45e3-ae60dff02728",
-                                "material_instance": "815f3ddc-f7ea-7f66-0a39-3508b5d8dacb"
+                                "mesh": "ed946c02-13fb-0fe7-574b-4d091a38846a",
+                                "material_instance": "11eff39d-4e4b-4320-6d59-58d36f51ead9"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "a0c5d77e-cedb-34fb-45e3-ae60dff02728"
+                        "mesh": "ed946c02-13fb-0fe7-574b-4d091a38846a"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -59,6 +64,6 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "4582c198-7f5e-5b2f-55a7-154eed186fa5"
+        "scene": "e91ed92b-d868-2e34-ca38-f9f2fc3df95a"
     }
 }

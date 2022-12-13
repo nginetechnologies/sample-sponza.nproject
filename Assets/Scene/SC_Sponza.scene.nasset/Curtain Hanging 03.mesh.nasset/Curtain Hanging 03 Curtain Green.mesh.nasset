@@ -1,11 +1,17 @@
 {
-    "guid": "2dd434c1-6f6c-d88e-9fa5-cff24ae0de65",
-    "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
-    "instanceGuid": "12239f97-9ad5-a2bf-983c-a7577c8a15b6",
+    "guid": "ed244bb6-104c-e9c8-39fe-27aa26ef4e5f",
+    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+    "instanceGuid": "44607feb-5176-e3a3-086b-01e1b1598d32",
+    "data_components": [
+        {
+            "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+            "type": 0
+        }
+    ],
     "children": [
         {
             "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "646fe642-7ef3-cb73-9b5f-27c5596b21e8",
+            "instanceGuid": "bb02eb64-b905-ca0a-ce46-542b26ac3038",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -15,7 +21,7 @@
             "children": [
                 {
                     "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "ae0b7282-60d8-a664-089b-e786daa2b64f",
+                    "instanceGuid": "1d65418e-cae5-d945-4481-5f0bdb6ec872",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -29,13 +35,13 @@
                         ]
                     },
                     "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "2dd434c1-6f6c-d88e-9fa5-cff24ae0de65",
-                        "material_instance": "c2d938f1-dc09-45f5-ec8f-26c92392ed94"
+                        "mesh": "ed244bb6-104c-e9c8-39fe-27aa26ef4e5f",
+                        "material_instance": "cd0b3632-b65f-e2a7-0f89-4eb73fe9db91"
                     }
                 }
             ],
             "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "2dd434c1-6f6c-d88e-9fa5-cff24ae0de65"
+                "mesh": "ed244bb6-104c-e9c8-39fe-27aa26ef4e5f"
             },
             "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                 "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"

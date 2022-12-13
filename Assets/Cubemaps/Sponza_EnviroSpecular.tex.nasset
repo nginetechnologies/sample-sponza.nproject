@@ -15,49 +15,98 @@
             {
                 "level": 0,
                 "offset": 0,
-                "size": 393216
+                "size": 3145728
             },
             {
                 "level": 1,
-                "offset": 393216,
-                "size": 98304
+                "offset": 3145728,
+                "size": 786432
             },
             {
                 "level": 2,
-                "offset": 491520,
-                "size": 24576
+                "offset": 3932160,
+                "size": 196608
             },
             {
                 "level": 3,
-                "offset": 516096,
-                "size": 6144
+                "offset": 4128768,
+                "size": 49152
             },
             {
                 "level": 4,
-                "offset": 522240,
-                "size": 1536
+                "offset": 4177920,
+                "size": 12288
             },
             {
                 "level": 5,
-                "offset": 523776,
-                "size": 384
+                "offset": 4190208,
+                "size": 3072
             },
             {
                 "level": 6,
-                "offset": 524160,
+                "offset": 4193280,
+                "size": 768
+            },
+            {
+                "level": 7,
+                "offset": 4194048,
+                "size": 192
+            },
+            {
+                "level": 8,
+                "offset": 4194240,
+                "size": 48
+            }
+        ]
+    },
+    "astc_data": {
+        "format": 171,
+        "mipmap_info": [
+            {
+                "level": 0,
+                "offset": 0,
+                "size": 98304
+            },
+            {
+                "level": 1,
+                "offset": 98304,
+                "size": 24576
+            },
+            {
+                "level": 2,
+                "offset": 122880,
+                "size": 6144
+            },
+            {
+                "level": 3,
+                "offset": 129024,
+                "size": 1536
+            },
+            {
+                "level": 4,
+                "offset": 130560,
+                "size": 384
+            },
+            {
+                "level": 5,
+                "offset": 130944,
+                "size": 96
+            },
+            {
+                "level": 6,
+                "offset": 131040,
                 "size": 96
             },
             {
                 "level": 7,
-                "offset": 524256,
+                "offset": 131136,
                 "size": 96
             },
             {
                 "level": 8,
-                "offset": 524352,
+                "offset": 131232,
                 "size": 96
             }
         ]
-    },
-    "astc_data": {}
+    }
 }

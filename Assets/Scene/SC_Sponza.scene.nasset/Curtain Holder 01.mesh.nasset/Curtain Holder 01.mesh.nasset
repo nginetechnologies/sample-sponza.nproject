@@ -1,25 +1,30 @@
 {
-    "guid": "a1de24fe-453c-3195-b004-66b26bbc955b",
+    "guid": "56fa2ffe-dfda-eba9-3081-5d8d0f5ebeb5",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "9ec0e291-05d0-3a14-8ef7-dabcdd238016",
+    "instanceGuid": "b6a96888-8476-d844-f0e0-75356acdb645",
+    "data_components": [],
     "children": [
         {
-            "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
-            "instanceGuid": "76a6ed0e-ecdf-4f12-5e08-5a890c5c0786",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "28b83a86-594b-9539-ebb7-47c853c2a7ef",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Curtain Holder 01 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "b7acd2ba-259b-9eef-54fa-77583f14674c",
+                    "instanceGuid": "1806f2dd-9207-c6bc-c04d-056b9edfab95",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -29,7 +34,7 @@
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "d98bbdeb-9d6f-1935-a0ce-ecd8266d95b2",
+                            "instanceGuid": "84ec0dd8-88e0-baaf-a6e3-4f230630fcea",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -43,13 +48,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "32d65245-ba93-7066-2fa0-d04e7f9f3753",
-                                "material_instance": "28ace095-4ec5-2a10-1e94-1fc1fb9d6ff8"
+                                "mesh": "8512becc-7937-133d-438d-d826dad17e23",
+                                "material_instance": "7ec28d68-e9c2-c96d-c6c2-1c1113def9a9"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "32d65245-ba93-7066-2fa0-d04e7f9f3753"
+                        "mesh": "8512becc-7937-133d-438d-d826dad17e23"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -59,6 +64,6 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "a1de24fe-453c-3195-b004-66b26bbc955b"
+        "scene": "56fa2ffe-dfda-eba9-3081-5d8d0f5ebeb5"
     }
 }
