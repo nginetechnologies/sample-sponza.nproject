@@ -1,6 +1,7 @@
 {
     "name": "Sponza",
-    "guid": "45f9611c-91e9-4179-876c-d287ac235047",
+    "guid": "c76030f9-7e69-4a3c-a9b1-adfc47711809",
+    "database_guid": "0300b887-ee31-cd6f-d781-9db09020beab",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -12,7 +13,8 @@
     "binary_directory": "bin",
     "library_directory": "lib",
     "thumbnail_guid": "23dd1fce-3540-4d16-a54a-9a7d9888cf77",
-    "default_scene": "7c84a05e-b8c5-419a-9632-13311960b33c",
+    "default_scene": "a6bcd6d6-3e74-41d3-b8d2-02a4a909b77a",
+    "tags": [ "3839fd96-d90f-4df2-8fd0-e0e494cff402" ],
     "source": "Project.nproject",
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {

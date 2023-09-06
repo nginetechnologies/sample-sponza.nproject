@@ -1,14 +1,12 @@
 {
-    "guid": "7c84a05e-b8c5-419a-9632-13311960b33c",
+    "guid": "a6bcd6d6-3e74-41d3-b8d2-02a4a909b77a",
+    "type_version": 1,
     "typeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-    "instanceGuid": "4254FA23-1241-40F3-9920-933BFCAFDD62",
+    "instanceGuid": "2e7a024e-3f89-9fc3-831f-49eb0a25a861",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 4096.0
     },
     "data_components": [
-        {
-            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
-        },
         {
             "typeGuid": "05a7011d-a220-49f2-98df-81b32be3c0fd",
             "camera_settings": {
@@ -16,145 +14,126 @@
                 "9ae0e145-86b4-4e47-afda-697bbd008922": {
                     "fieldOfView": 60.0,
                     "nearPlane": 0.1,
-                    "farPlane": 128.0
+                    "farPlane": 512.0
                 }
             },
             "transform": {
                 "position": [
-                    -3.8428,
-                    -0.6523,
-                    1.8777
+                    0.436,
+                    -0.6431,
+                    1.6239
                 ],
                 "rotation": [
-                    6.1322,
+                    -58.6023,
                     -0.0,
-                    -90.1863
+                    -0.7749
                 ]
-            },
-            "grid_settings": {
-                "typeGuid": "ecc5ac5d-5450-4808-97b1-e25d91462d96",
-                "ecc5ac5d-5450-4808-97b1-e25d91462d96": {
-                    "transform": {
-                        "scale": [
-                            -1.0,
-                            -1.0,
-                            1.0
-                        ]
-                    }
-                }
             }
+        },
+        {
+            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
         }
     ],
     "children": [
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "0fe2b9df-00f8-6cc6-6daa-04e02362a123",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.0908,
-                    -0.1815,
-                    12.5298
-                ]
-            },
+            "instanceGuid": "e49612dc-0b19-77da-1391-84923ca0bb1e",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Decals Floor 03"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "0fe2b9df-00f8-6cc6-6daa-04e02362a123"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.091,
+                    -0.1815,
+                    12.53
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "e1e61bc7-d04f-a6b9-5063-21ae1d579437"
+                "scene": "ce8c1541-1996-ee20-1e41-bf57d83de5b0"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "ccd2bd0d-f0dc-2d2e-9746-d3626d7ab79b",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -11.1167,
-                    4.7802,
-                    1.1707
-                ],
-                "rotation": [
-                    89.9998,
-                    0.0,
-                    89.9997
-                ]
-            },
+            "instanceGuid": "a1f2faa1-159d-7312-7dcb-f396b53829f0",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Decals Floor 01"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ccd2bd0d-f0dc-2d2e-9746-d3626d7ab79b"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.1167,
+                    4.7802,
+                    1.1709
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    89.9999
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "479337fd-7211-b660-9d32-fdd90fc4257b"
+                "scene": "29f97f20-0f6f-d676-a0ae-2652054c5443"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "23d90730-0eb8-4ad4-7f6e-6af28a77598a",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.1677,
-                    0.3084,
-                    8.079
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    179.9997
-                ]
-            },
+            "instanceGuid": "49736dc6-6fc2-4d40-cdb4-ffa3a3545ef8",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Decals Floor 02"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "23d90730-0eb8-4ad4-7f6e-6af28a77598a"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.1679,
+                    0.3084,
+                    8.079
+                ],
+                "rotation": [
+                    -0.0,
+                    0.0,
+                    179.9999
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "6d02a3d6-7003-90a6-b815-40727f58b133"
+                "scene": "440b0864-09e5-2b0c-6e72-e093eb51db14"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "c0b08fde-988c-65d0-61c7-e2f739289cd7",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.1643,
-                    3.2706,
-                    4.0313
-                ]
-            },
+            "instanceGuid": "366b51c3-d546-e591-d5bb-649eb975ef9a",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Curtain Holder 01"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c0b08fde-988c-65d0-61c7-e2f739289cd7"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.1645,
+                    3.2706,
+                    4.0313
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "56fa2ffe-dfda-eba9-3081-5d8d0f5ebeb5"
+                "scene": "be23c257-cad8-6cb8-b8c0-ec686c94b3c1"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "d98ef75c-0cc9-243a-3ded-888f70829b54",
+            "instanceGuid": "155d7082-894c-807f-e52e-ec35afb0ab77",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Curtain Holder 02"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     0.1351,
@@ -162,335 +141,279 @@
                     4.0313
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Curtain Holder 02"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d98ef75c-0cc9-243a-3ded-888f70829b54"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "ce0fc126-0206-47c4-47d4-bc32cb0d5c3e"
+                "scene": "8713138a-e09d-f1d4-b1dd-ed357b57147c"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "3df9730d-48fb-e56e-afd7-8574b4db2651",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    8.3442,
-                    -1.5779,
-                    3.1047
-                ]
-            },
+            "instanceGuid": "a810d18e-2121-6aec-1911-5d141dd26d5f",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Curtain 01"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "3df9730d-48fb-e56e-afd7-8574b4db2651"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    8.3442,
+                    -1.5779,
+                    3.1049
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "7b01bd90-6e07-e92f-10f5-e8898a4213d6"
+                "scene": "d25caec6-7f72-e8d1-a851-e7c5449f0e70"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "ff37148a-3b8e-d655-2502-78d57c180d63",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -1.7073,
-                    2.996,
-                    0.0
-                ]
-            },
+            "instanceGuid": "fd2aefca-795e-2718-20d0-afbe9b8fdb01",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Curtain 02"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ff37148a-3b8e-d655-2502-78d57c180d63"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.7075,
+                    2.9961,
+                    0.0
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "b6e6039f-fba9-76c6-cc28-bffae2de584a"
+                "scene": "4b332e8e-0497-849a-e052-4300682bb6db"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "d249cf62-41a7-d5ff-ccfe-c0cbf59d7468",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    2.3626,
-                    2.9965,
-                    0.0
-                ]
-            },
+            "instanceGuid": "484a9164-8cfe-6564-8f19-7b03cbc3be92",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Curtain 03"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d249cf62-41a7-d5ff-ccfe-c0cbf59d7468"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.3626,
+                    2.9966,
+                    0.0
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "c39ad779-db41-3be0-75f7-55f440b2ee51"
+                "scene": "484d4ab2-36b4-e490-0bc4-310c0dea2c02"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "cf83adca-cfbd-ce37-6fca-fa01db2f09fc",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -5.7582,
-                    3.1552,
-                    2.2239
-                ]
-            },
+            "instanceGuid": "68b14704-fd4f-315b-393e-0cba92baa037",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Curtain 04"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "cf83adca-cfbd-ce37-6fca-fa01db2f09fc"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -5.7582,
+                    3.1553,
+                    2.224
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "06579ae3-8773-675f-c9d0-90ab75bb7275"
+                "scene": "e81067c4-c3c7-abe7-c6a9-b18cedcca816"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "72fd284d-6662-4896-9687-156ec3faee74",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -5.3652,
-                    3.1315,
-                    2.2246
-                ]
-            },
+            "instanceGuid": "a45ea21c-99b9-b564-691c-2385631546dc",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Curtain 05"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "72fd284d-6662-4896-9687-156ec3faee74"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -5.3652,
+                    3.1316,
+                    2.2247
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "76f26fb0-602e-5ee4-d1da-a53e20fa0c41"
+                "scene": "7e2563ba-d57d-a276-5efa-bd02b52e7b21"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "6d19ecd3-98fc-319a-1d9f-7eedb487b55a",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    5.6704,
-                    -3.0441,
-                    2.2246
-                ]
-            },
+            "instanceGuid": "c2a1803e-b010-e2f1-a9bf-3a3303a4eb24",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Curtain 06"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6d19ecd3-98fc-319a-1d9f-7eedb487b55a"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    5.6704,
+                    -3.0441,
+                    2.2247
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "c8871c96-d693-9856-c257-ffb9b03f2a5f"
+                "scene": "4fd6304e-2c87-3942-d94f-365b8dab7c68"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "8450be57-4ccb-afa7-c8f6-b2690002167b",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -2.0597,
-                    -2.9038,
-                    -0.0
-                ]
-            },
+            "instanceGuid": "7c4e6f6d-9de0-4830-4c20-7a6b7d3e7dda",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Curtain 07"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "8450be57-4ccb-afa7-c8f6-b2690002167b"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -2.0598,
+                    -2.9039,
+                    -0.0
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "5253ccb9-2de5-e561-96dc-3ded25e37927"
+                "scene": "ebf8b0ae-7ce2-52fc-0e6a-9641cbd037d0"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "dd830dbe-cc7e-1942-363e-77caf8363658",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    1.9385,
-                    -2.9061,
-                    -0.0
-                ]
-            },
+            "instanceGuid": "fae8748e-b602-234d-6f72-0a3672811974",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Curtain 08"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "dd830dbe-cc7e-1942-363e-77caf8363658"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    1.9387,
+                    -2.9062,
+                    -0.0
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "b12a5100-ea4e-1e9f-1a5a-f7323c80b73b"
+                "scene": "a00eef2c-0e13-8191-90bd-91347a1cccb1"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "b0b62292-d8af-e7b6-97bb-498a4e4c4823",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    6.063,
-                    -3.0546,
-                    2.2239
-                ]
-            },
+            "instanceGuid": "0bfb9d4b-5f2e-0233-b5df-0e6709832e0f",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Curtain 09"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b0b62292-d8af-e7b6-97bb-498a4e4c4823"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    6.0632,
+                    -3.0547,
+                    2.224
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "ff9f565f-a448-babd-e814-ee3383d62160"
+                "scene": "dfbf6e32-3740-2862-6f8b-73ee746b88fe"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "5cacf1f4-513e-c837-9021-c97998ec4928",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    4.149,
-                    3.0213,
-                    4.8284
-                ]
-            },
+            "instanceGuid": "a917138b-4bcb-8a6f-7671-ab35e471a8f2",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Curtain Hanging 01"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "5cacf1f4-513e-c837-9021-c97998ec4928"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    4.1492,
+                    3.0213,
+                    4.8285
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a6ce4c74-c9c8-2559-a454-6997d43cf042"
+                "scene": "a3f04ae4-8815-0b97-bbc8-0f6fd5d29b53"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "e7d14d24-2d82-b6e6-5eb6-c1ac3167399c",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    2.3631,
-                    2.996,
-                    0.0
-                ]
-            },
+            "instanceGuid": "24029a4d-ea18-cc7b-f152-d145e1acb0b5",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Curtain Hanging 02"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e7d14d24-2d82-b6e6-5eb6-c1ac3167399c"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.3631,
+                    2.9961,
+                    0.0
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "35f619a7-381f-508f-88ca-1a756c8b24a3"
+                "scene": "4207c80f-e540-80d4-3905-88b22c1087d5"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "e10ae9d0-b2da-019a-dfe5-75152bc584f9",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -1.6476,
-                    2.9967,
-                    0.0
-                ]
-            },
+            "instanceGuid": "55a35930-6428-6df6-d66b-1aa50245d6ed",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Curtain Hanging 03"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e10ae9d0-b2da-019a-dfe5-75152bc584f9"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.6478,
+                    2.9968,
+                    0.0
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "34f3c929-2f87-5704-e9af-5dd4154cfa24"
+                "scene": "043061d6-dacb-1b8c-07c2-66758a97b7ce"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "f6878b82-7dcb-9f77-7722-a14673c60e14",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    1.9213,
-                    -2.9681,
-                    -0.0
-                ]
-            },
+            "instanceGuid": "5b75290e-358a-5c28-ff14-5226be11caa5",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Curtain Hanging 04"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f6878b82-7dcb-9f77-7722-a14673c60e14"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    1.9214,
+                    -2.9681,
+                    -0.0
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "93567267-7312-86a1-3a78-f6ec5df2d32e"
+                "scene": "e9c09ff9-1954-e112-5bc5-fe3ea91faa1e"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "0f91932e-8c06-eb57-c420-151078704ec0",
+            "instanceGuid": "9169678d-22e4-5c83-665d-14c915a662a5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Curtain Hanging 05"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -2.0894,
@@ -498,311 +421,259 @@
                     -0.0
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Curtain Hanging 05"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "0f91932e-8c06-eb57-c420-151078704ec0"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "5ddb34c5-7aca-fa16-378a-5a63f16f284b"
+                "scene": "7d3bbd0c-54e7-33c8-b743-2b70efeee963"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "580ad4dd-6645-a1bf-6f7f-386a20baae70",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -3.8754,
-                    -2.9925,
-                    4.8284
-                ]
-            },
+            "instanceGuid": "93c99eb6-4172-64b1-f5a2-cee72c2c41d2",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Curtain Hanging 06"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "580ad4dd-6645-a1bf-6f7f-386a20baae70"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.8755,
+                    -2.9926,
+                    4.8285
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "729ae56d-b019-5b6c-0964-bb5238f95571"
+                "scene": "cbc1c245-06c3-1119-ff4a-828d8b5bdadb"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "b4348f2f-49eb-d1af-19a8-9615a01211f3",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    1.0219,
-                    -0.0065,
-                    12.1844
-                ]
-            },
+            "instanceGuid": "2b02b299-5666-2eaa-e175-76bfd7a87ddd",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Windows"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b4348f2f-49eb-d1af-19a8-9615a01211f3"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    1.022,
+                    -0.0066,
+                    12.1846
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "d2e6b6c7-fd3d-fc3c-8af1-4bc48810ef3b"
+                "scene": "a37662cb-b8eb-ef9c-f389-f2f088106b85"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "56d3b1d0-df13-a9ba-1dc7-ba0efc2d4af3",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -7.8994,
-                    0.0109,
-                    13.3261
-                ]
-            },
+            "instanceGuid": "ec2bcf14-70f2-7798-001b-8d86234bce44",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Sponza"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "56d3b1d0-df13-a9ba-1dc7-ba0efc2d4af3"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -7.8995,
+                    0.0111,
+                    13.3262
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "47131253-e43c-ac16-95c7-1575ecbc030a"
+                "scene": "fd48fcfd-2fc0-64da-3ddb-a823a6837055"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "95e1455f-3d94-8aa7-95e2-5e2b135eaebf",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.8992,
-                    0.003,
-                    15.9422
-                ]
-            },
+            "instanceGuid": "a7b5adf9-6cec-27f8-9337-95c364bf5c55",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Roof"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "95e1455f-3d94-8aa7-95e2-5e2b135eaebf"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.8993,
+                    0.003,
+                    15.9424
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a810a582-ab65-eca5-7e5d-62af23b12ae6"
+                "scene": "8ca03da6-f61f-965f-f404-478de2d7b783"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "e58d65cf-67d6-67dc-0260-616e904d3141",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    10.2044,
-                    -0.1446,
-                    16.7033
-                ]
-            },
+            "instanceGuid": "dc91e096-ce7d-5c9f-833a-c02b42597bfe",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Roof Floor 03 1"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e58d65cf-67d6-67dc-0260-616e904d3141"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    10.2044,
+                    -0.1446,
+                    16.7034
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "99b0a0ce-de44-cfe9-1479-6ccfa15befcf"
+                "scene": "f7c6b489-d167-7a17-7a94-493c902eef54"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "e867122d-bcf3-53b4-ce59-18805bb57001",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -11.9657,
-                    -0.0178,
-                    16.8847
-                ]
-            },
+            "instanceGuid": "74a793f3-fb0e-3c50-232a-505867a1734a",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Roof Floor 03 2"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e867122d-bcf3-53b4-ce59-18805bb57001"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.9657,
+                    -0.018,
+                    16.8847
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "79c6842d-7b16-6ad4-84e9-927a78cade09"
+                "scene": "be92bab7-629e-1fa3-6345-43adaf5e185c"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "05e4eb99-9004-ddbe-64c9-da0856061ea5",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -11.0284,
-                    -5.4987,
-                    16.1749
-                ]
-            },
+            "instanceGuid": "27c7a5b1-524f-4a0b-88bb-95da053cc588",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Roof Floor 03 3"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "05e4eb99-9004-ddbe-64c9-da0856061ea5"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.0285,
+                    -5.4987,
+                    16.175
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "424b3c86-3b00-78d2-110c-b0761a12e1aa"
+                "scene": "0ff0465f-077f-75d0-b9ff-fe649089383a"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "c85fff0f-78c6-b7e4-f79b-062f2356ad8c",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -0.8205,
-                    -5.4987,
-                    16.1749
-                ]
-            },
+            "instanceGuid": "96116841-b404-fb12-8409-9c246ba62553",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Roof Floor 03 4"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c85fff0f-78c6-b7e4-f79b-062f2356ad8c"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.8206,
+                    -5.4987,
+                    16.175
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "150fb8fc-1323-86c0-47ed-024d42855058"
+                "scene": "c218fb3e-5466-c7fa-971a-a2492efbd669"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "9db0223d-24bc-0a42-9461-1cc66ae1be1d",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -11.0319,
-                    5.472,
-                    16.1723
-                ]
-            },
+            "instanceGuid": "69685dbd-3fea-bbd9-c340-eb1dfae88951",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Roof Floor 03 5"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9db0223d-24bc-0a42-9461-1cc66ae1be1d"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.0321,
+                    5.4721,
+                    16.1723
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "e3f18264-eb7c-318d-bda5-e5ec98fd8f76"
+                "scene": "5de03292-df25-da90-b0de-f83b9d6942c5"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "18a47a23-adfd-a1eb-f297-a67c38e71f4d",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -0.8403,
-                    5.4766,
-                    16.1749
-                ]
-            },
+            "instanceGuid": "e339827d-67e8-7a8d-cc00-097aadbf9b02",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Roof Floor 03 6"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "18a47a23-adfd-a1eb-f297-a67c38e71f4d"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -0.8403,
+                    5.4767,
+                    16.175
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "1176d691-a21d-14f8-f76c-115228499bb8"
+                "scene": "2378ee1b-f732-d4e3-ad1e-aadf33c9706f"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "4689a1b6-eb29-7b3f-47f2-fc4ca70f8d87",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    7.446,
-                    -5.4987,
-                    16.1749
-                ]
-            },
+            "instanceGuid": "5c40ee9f-b45a-44c9-2009-75c7fde12212",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Roof Floor 03 7"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4689a1b6-eb29-7b3f-47f2-fc4ca70f8d87"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.446,
+                    -5.4987,
+                    16.175
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "88cf927f-65ed-fe07-6c22-351a2a2f687e"
+                "scene": "510a8819-94a1-f911-eac0-ae08898f110d"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "9d0d3870-fedf-4b1b-0e4e-3c60015aabaf",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    7.517,
-                    5.4766,
-                    16.1749
-                ]
-            },
+            "instanceGuid": "0fa08a4e-4229-0985-8ea1-34aff1692b59",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Roof Floor 03 8"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9d0d3870-fedf-4b1b-0e4e-3c60015aabaf"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    7.5172,
+                    5.4767,
+                    16.175
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "c0dd63c2-3133-1ff8-d15d-cb01147de779"
+                "scene": "6d1a91ca-ce7b-e9c8-eb33-0a87d6615bee"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "ba73dd49-fca6-e73f-70d6-a2035e8cf73d",
+            "instanceGuid": "743e7a7f-ef5c-2648-2941-0881e4e5a6bf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Walls Floor 03"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     1.4462,
@@ -810,422 +681,354 @@
                     13.4524
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Walls Floor 03"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ba73dd49-fca6-e73f-70d6-a2035e8cf73d"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "91dd6e77-e279-9994-8a87-1f910decea81"
+                "scene": "f2e80bec-bf65-8a88-1fe4-e4c49729601c"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "681a3df4-4d4e-2048-31bd-e6a0a33595dd",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.1489,
-                    0.0502,
-                    9.5537
-                ]
-            },
+            "instanceGuid": "a4407c35-dc70-6a89-dfe6-fe4b682c968c",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ceiling Floor 02"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "681a3df4-4d4e-2048-31bd-e6a0a33595dd"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.1489,
+                    0.0502,
+                    9.5539
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "c096f51c-02ee-d44c-7054-3ab7cac4d5d7"
+                "scene": "ec0a81b4-a157-73a0-b297-4a148273ef3b"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "6c89e631-28ed-75ce-fe6a-1f6941cdec39",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.2583,
-                    0.0208,
-                    9.9257
-                ]
-            },
+            "instanceGuid": "e749ec1b-9230-fab3-6ca4-1dc8e938d592",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Arch Wall Floor 02"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6c89e631-28ed-75ce-fe6a-1f6941cdec39"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.2583,
+                    0.0209,
+                    9.9257
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "9a86b1ec-3f37-7ade-72f5-e854aba76bc4"
+                "scene": "6f637119-268c-e842-d5f4-37f6b3091384"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "bed29293-a080-c424-de52-440db53bf521",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.1388,
-                    -0.1146,
-                    7.855
-                ]
-            },
+            "instanceGuid": "f6ef3301-49f8-68ba-af48-5a7953e59c28",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Stone Walls Floor 02"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "bed29293-a080-c424-de52-440db53bf521"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.139,
+                    -0.1146,
+                    7.855
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "b4c6db56-690f-eae0-67ed-67540d42455c"
+                "scene": "ca9df479-2025-0523-1aa5-6c04c5936ae1"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "bf54289f-722f-91ed-40fd-fe2520e3e949",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.1532,
-                    0.0288,
-                    8.4378
-                ]
-            },
+            "instanceGuid": "a50bd757-4785-11dd-c49c-551f75bdad55",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Stones Floor 02"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "bf54289f-722f-91ed-40fd-fe2520e3e949"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.1532,
+                    0.029,
+                    8.4379
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "eacee61c-1a45-09cb-7b90-62133b3247ac"
+                "scene": "201a169d-4b82-b68a-c4bc-b332403e1d14"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "476c916c-e6f2-789a-5c93-7ecf01318ec0",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    2.1626,
-                    4.6967,
-                    10.3832
-                ]
-            },
+            "instanceGuid": "6e10665f-489d-a532-c334-da524757d655",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lamps Floor 02 1"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "476c916c-e6f2-789a-5c93-7ecf01318ec0"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.1627,
+                    4.6967,
+                    10.3834
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "be2ba837-3484-5051-aabf-c5ffd850949f"
+                "scene": "5f9c06b3-c966-780e-674d-08b24f0e99bd"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "d618463c-b064-92dc-f732-304ecfe875b3",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -5.853,
-                    4.6627,
-                    10.3832
-                ]
-            },
+            "instanceGuid": "76f3c9fd-a39c-3f1c-fe9f-92a00c03b828",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lamps Floor 02 2"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d618463c-b064-92dc-f732-304ecfe875b3"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -5.8532,
+                    4.6628,
+                    10.3834
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "42ff59b6-a07e-8431-2034-662259a5d8df"
+                "scene": "e61fcc36-10a3-ab02-f186-075919201aa1"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "a1f91b66-4fce-01f0-7d43-810f5136b65f",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -9.7543,
-                    4.7273,
-                    10.3832
-                ]
-            },
+            "instanceGuid": "fa086081-75bc-fa25-039b-a05adaeea0a5",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lamps Floor 02 3"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a1f91b66-4fce-01f0-7d43-810f5136b65f"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -9.7543,
+                    4.7273,
+                    10.3834
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "98a1e0e9-92cc-dcd5-5698-14b57a47fb27"
+                "scene": "94b58102-4922-e949-d937-15c2c1345ad5"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "c3dc41e1-30be-edab-6972-fd5a8a4279d2",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    10.0649,
-                    -4.7199,
-                    10.3832
-                ]
-            },
+            "instanceGuid": "ebaa733f-9d6c-eed4-cd6d-a0de1698e655",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lamps Floor 02 4"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c3dc41e1-30be-edab-6972-fd5a8a4279d2"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    10.0649,
+                    -4.72,
+                    10.3834
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a40d34ba-d4c9-2bfd-1a4e-2ce0b38e0618"
+                "scene": "0d015b49-381e-264d-db4d-246716ff3256"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "c7ba9362-252a-62ec-0fcc-69b488574757",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    2.1626,
-                    -4.6658,
-                    10.3832
-                ]
-            },
+            "instanceGuid": "e0bbe3fc-afb5-e7b6-a64b-6a98e6b3853c",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lamps Floor 02 5"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c7ba9362-252a-62ec-0fcc-69b488574757"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.1627,
+                    -4.6658,
+                    10.3834
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "f90d746e-0251-9934-3534-6899f7528bd1"
+                "scene": "da211e35-bbe4-3dd6-15f3-79f1b51466ef"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "6be7b900-5b26-d7fb-b9e8-07b0df67e2fa",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -5.8477,
-                    -4.6694,
-                    10.3832
-                ]
-            },
+            "instanceGuid": "6c08bf2c-7f65-e1f8-1f40-53811b418448",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lamps Floor 02 6"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6be7b900-5b26-d7fb-b9e8-07b0df67e2fa"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -5.8477,
+                    -4.6695,
+                    10.3834
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "b18e9dee-93a1-909a-8585-7a4a78901c6e"
+                "scene": "ffead9d0-f98b-ca69-e514-e4da705a47ec"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "4d91ead8-06f6-5b1f-a5b6-0adc706b1f39",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -9.7728,
-                    -4.7382,
-                    10.3832
-                ]
-            },
+            "instanceGuid": "d393f84e-a1e2-154f-01d8-58178c616833",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lamps Floor 02 7"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4d91ead8-06f6-5b1f-a5b6-0adc706b1f39"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -9.7728,
+                    -4.7383,
+                    10.3834
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "f9baa9fb-0324-6b1b-ddc2-a19ece2d30a2"
+                "scene": "29133693-6191-5cca-92f0-aa94e86a85ae"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "ce9add30-c21a-b65a-03e1-a7ece23dc916",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    10.0677,
-                    4.7255,
-                    10.3832
-                ]
-            },
+            "instanceGuid": "f6b79914-56ce-d335-c3c2-c37b3f8b9363",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lamps Floor 02 8"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ce9add30-c21a-b65a-03e1-a7ece23dc916"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    10.0678,
+                    4.7257,
+                    10.3834
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "eb175cce-4788-4a83-50aa-3a8f0cb1d866"
+                "scene": "a614ca26-9c77-1120-87b1-a0bf5096cea5"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "b18886e5-8cb2-5785-c642-6b39a525012a",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -3.8596,
-                    -3.1061,
-                    6.1085
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    -179.9997
-                ]
-            },
+            "instanceGuid": "02a00ec4-d26c-2101-1eff-e931d217c3d5",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Column Floor 02 1"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b18886e5-8cb2-5785-c642-6b39a525012a"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.8596,
+                    -3.1062,
+                    6.1085
+                ],
+                "rotation": [
+                    -0.0,
+                    0.0,
+                    -179.9999
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a23d2103-3071-38b1-220d-3cb14385c9a2"
+                "scene": "3251040c-c18e-257d-5940-181e6100f8bd"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "76075f35-b9f2-5e09-5b44-85cb38a03bbc",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.1429,
-                    -3.1031,
-                    6.1076
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    -179.9997
-                ]
-            },
+            "instanceGuid": "f8bb30a5-3f89-87db-a049-4e2e061c09c4",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Column Floor 02 2"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "76075f35-b9f2-5e09-5b44-85cb38a03bbc"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.1429,
+                    -3.1032,
+                    6.1077
+                ],
+                "rotation": [
+                    -0.0,
+                    0.0,
+                    -179.9999
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a23d2103-3071-38b1-220d-3cb14385c9a2"
+                "scene": "3251040c-c18e-257d-5940-181e6100f8bd"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "0c15f80c-a881-4bc8-7865-6e5315627c14",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    4.1581,
-                    -3.1033,
-                    6.1085
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    -179.9997
-                ]
-            },
+            "instanceGuid": "30a192ba-b6c3-b9f4-3505-cd6371c06201",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Column Floor 02 3"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "0c15f80c-a881-4bc8-7865-6e5315627c14"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    4.1581,
+                    -3.1034,
+                    6.1085
+                ],
+                "rotation": [
+                    -0.0,
+                    0.0,
+                    -179.9999
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a23d2103-3071-38b1-220d-3cb14385c9a2"
+                "scene": "3251040c-c18e-257d-5940-181e6100f8bd"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "069cfbe3-88a8-6f12-0a45-cea1aae442df",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    8.3184,
-                    -2.979,
-                    6.1085
-                ]
-            },
+            "instanceGuid": "fe46277b-df2d-1574-1061-d159e61b4dc5",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Column Floor 02 4"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "069cfbe3-88a8-6f12-0a45-cea1aae442df"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    8.3186,
+                    -2.9791,
+                    6.1085
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "d4614bed-5176-3c8f-fa49-589ae872d116"
+                "scene": "ba5b442b-d291-726c-4e30-bb5a1e508395"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "1d91bca3-598a-e60a-f6e2-7d65892d390d",
+            "instanceGuid": "ab9cce14-c521-9ea0-75e5-93dc0f743e19",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Column Floor 02 5"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -3.8596,
@@ -1233,71 +1036,59 @@
                     6.1085
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Column Floor 02 5"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1d91bca3-598a-e60a-f6e2-7d65892d390d"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a23d2103-3071-38b1-220d-3cb14385c9a2"
+                "scene": "3251040c-c18e-257d-5940-181e6100f8bd"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "64217569-cbf0-d0f1-c9ee-8f16364a473e",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.1474,
-                    3.1205,
-                    6.1076
-                ]
-            },
+            "instanceGuid": "871f940b-f2f0-513b-ab11-4ae33f09959d",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Column Floor 02 6"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "64217569-cbf0-d0f1-c9ee-8f16364a473e"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.1474,
+                    3.1207,
+                    6.1077
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a23d2103-3071-38b1-220d-3cb14385c9a2"
+                "scene": "3251040c-c18e-257d-5940-181e6100f8bd"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "07cc82f7-6b84-5447-8a67-6d8f0921e70c",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    4.1479,
-                    3.1275,
-                    6.1085
-                ]
-            },
+            "instanceGuid": "d932ce76-3a4c-cf7c-b1fa-bd7c335c9938",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Column Floor 02 7"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "07cc82f7-6b84-5447-8a67-6d8f0921e70c"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    4.148,
+                    3.1275,
+                    6.1085
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a23d2103-3071-38b1-220d-3cb14385c9a2"
+                "scene": "3251040c-c18e-257d-5940-181e6100f8bd"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "16e5390e-4da0-0dd3-54c9-5def14e2397c",
+            "instanceGuid": "2f1253c9-f5a5-85a6-45e6-48091e6576fc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Column Floor 02 8"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     8.3177,
@@ -1305,23 +1096,19 @@
                     6.1085
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Column Floor 02 8"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "16e5390e-4da0-0dd3-54c9-5def14e2397c"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "f596c378-1ff3-6cd5-5566-0ad6d5ec49b9"
+                "scene": "d754d8d5-8e54-1d19-f4d3-4c342b514a46"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "74f380f8-2312-f550-860a-e7ef9856e58c",
+            "instanceGuid": "96700541-8678-cb04-2f71-aff83b4a824b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Column Floor 02 9"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -1.8593,
@@ -1329,23 +1116,19 @@
                     6.1001
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Column Floor 02 9"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "74f380f8-2312-f550-860a-e7ef9856e58c"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "78404bce-6c0b-ae1c-574f-eb95f8d75757"
+                "scene": "bc25771c-1d40-6b4f-be3c-c2617c716667"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "ae591c12-b080-d8c2-3e2e-4a3bcb0084d5",
+            "instanceGuid": "3c3bfe6e-2f5e-bd4b-7069-85701b57638c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Column Floor 02 10"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     2.1651,
@@ -1353,23 +1136,19 @@
                     6.1001
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Column Floor 02 10"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ae591c12-b080-d8c2-3e2e-4a3bcb0084d5"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "78404bce-6c0b-ae1c-574f-eb95f8d75757"
+                "scene": "bc25771c-1d40-6b4f-be3c-c2617c716667"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "7090363f-12c0-5a51-596b-7e45dcd76037",
+            "instanceGuid": "a6b4d6aa-c851-5251-d267-a06bc7091d9c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Column Floor 02 11"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     6.1536,
@@ -1377,47 +1156,39 @@
                     6.1001
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Column Floor 02 11"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7090363f-12c0-5a51-596b-7e45dcd76037"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "78404bce-6c0b-ae1c-574f-eb95f8d75757"
+                "scene": "bc25771c-1d40-6b4f-be3c-c2617c716667"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "d60d64ef-8694-8e23-9e84-be8cbae88c84",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -1.8681,
-                    -3.0724,
-                    6.1001
-                ]
-            },
+            "instanceGuid": "37ab08be-0e3d-855e-5a9b-dfee53e18b22",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Column Floor 02 12"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d60d64ef-8694-8e23-9e84-be8cbae88c84"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.8683,
+                    -3.0724,
+                    6.1001
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "78404bce-6c0b-ae1c-574f-eb95f8d75757"
+                "scene": "bc25771c-1d40-6b4f-be3c-c2617c716667"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "7651b549-48b6-a4c1-c5ac-3880c6afab76",
+            "instanceGuid": "c141e283-2cd4-1e85-9979-ea6d6e62dc2c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Column Floor 02 13"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     2.1561,
@@ -1425,71 +1196,59 @@
                     6.1001
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Column Floor 02 13"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7651b549-48b6-a4c1-c5ac-3880c6afab76"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "78404bce-6c0b-ae1c-574f-eb95f8d75757"
+                "scene": "bc25771c-1d40-6b4f-be3c-c2617c716667"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "8d637aa5-7c71-aa4b-1216-f0d0a1a7132e",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    6.1701,
-                    -3.0724,
-                    6.1001
-                ]
-            },
+            "instanceGuid": "4b7e9e29-8c7d-8d09-187a-a1fd60f14b36",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Column Floor 02 14"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "8d637aa5-7c71-aa4b-1216-f0d0a1a7132e"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    6.1702,
+                    -3.0724,
+                    6.1001
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "78404bce-6c0b-ae1c-574f-eb95f8d75757"
+                "scene": "bc25771c-1d40-6b4f-be3c-c2617c716667"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "e4cc5de6-64e8-88dd-a7d2-e00c79ce8384",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    8.4202,
-                    0.0306,
-                    6.1001
-                ]
-            },
+            "instanceGuid": "0d4d6ede-b86a-a85d-7b4c-f2e4285e2fa0",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Column Floor 02 15"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e4cc5de6-64e8-88dd-a7d2-e00c79ce8384"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    8.4204,
+                    0.0306,
+                    6.1001
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "78404bce-6c0b-ae1c-574f-eb95f8d75757"
+                "scene": "bc25771c-1d40-6b4f-be3c-c2617c716667"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "54751ac7-21e8-c88a-f33d-5b0a14aa50ed",
+            "instanceGuid": "51159cd3-d5d3-868c-4272-59ed8199e52f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Column Floor 02 16"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -8.1441,
@@ -1497,23 +1256,19 @@
                     6.1001
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Column Floor 02 16"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "54751ac7-21e8-c88a-f33d-5b0a14aa50ed"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "78404bce-6c0b-ae1c-574f-eb95f8d75757"
+                "scene": "bc25771c-1d40-6b4f-be3c-c2617c716667"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "1a3f26d5-0317-2507-cc3f-350caac311b7",
+            "instanceGuid": "d8078383-cef1-e247-14f4-c68a1f6cc90e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Column Floor 02 17"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -5.8569,
@@ -1521,95 +1276,79 @@
                     6.1001
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Column Floor 02 17"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1a3f26d5-0317-2507-cc3f-350caac311b7"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "78404bce-6c0b-ae1c-574f-eb95f8d75757"
+                "scene": "bc25771c-1d40-6b4f-be3c-c2617c716667"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "2773b393-a7b6-a7de-a448-45a7e4819ea7",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -5.8734,
-                    3.0848,
-                    6.1001
-                ]
-            },
+            "instanceGuid": "8802d514-3475-d4fd-b9ad-db179fbac38f",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Column Floor 02 18"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "2773b393-a7b6-a7de-a448-45a7e4819ea7"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -5.8735,
+                    3.0848,
+                    6.1001
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "78404bce-6c0b-ae1c-574f-eb95f8d75757"
+                "scene": "bc25771c-1d40-6b4f-be3c-c2617c716667"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "07ee064d-05aa-435d-ae79-88655dc74a51",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -8.0693,
-                    2.9921,
-                    6.1085
-                ]
-            },
+            "instanceGuid": "b1b57c06-938b-8e1d-fb63-674558e1c2a8",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Column Floor 02 19"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "07ee064d-05aa-435d-ae79-88655dc74a51"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -8.0695,
+                    2.9921,
+                    6.1085
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "e2babb08-e5da-317e-2aed-80ca19a1fc83"
+                "scene": "a2c91ed6-041d-8007-bd84-1b5f3eabb81e"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "baa6f66a-d74c-0da1-d405-52fd8a57489a",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -8.0637,
-                    -2.9509,
-                    6.0665
-                ]
-            },
+            "instanceGuid": "aee43f1f-db34-336b-ef43-a8adba112d7e",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Column Floor 02 20"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "baa6f66a-d74c-0da1-d405-52fd8a57489a"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -8.0639,
+                    -2.951,
+                    6.0666
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "2816b1ae-091a-5f4a-5bcd-6696b84a6c93"
+                "scene": "58a9b002-c7d7-f44d-008b-6bbe83895e6b"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "c6250ee5-6652-73a6-7fa0-6bae7a87a6e5",
+            "instanceGuid": "3cf726ab-5808-d122-e367-08c2b93f0616",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ornament Door Floor 02 1"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     2.2743,
@@ -1617,95 +1356,79 @@
                     5.4509
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ornament Door Floor 02 1"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c6250ee5-6652-73a6-7fa0-6bae7a87a6e5"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "ec47bf81-da58-ec0f-0889-4e6a2fb71c66"
+                "scene": "253dea2f-b76c-cac3-17b4-0325dbf2b38c"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "d78b3199-abbd-5cbc-e9f1-6c9c071ed296",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -1.841,
-                    7.4685,
-                    5.4509
-                ]
-            },
+            "instanceGuid": "01ce1977-d512-7e9d-c68a-25765eb1f29c",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Door Floor 02 2"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d78b3199-abbd-5cbc-e9f1-6c9c071ed296"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.8412,
+                    7.4685,
+                    5.4509
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "8d28786d-5f26-296c-7a33-afe13d5fb63c"
+                "scene": "bf7c52a7-61a6-ab87-f247-ef58d6929f7a"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "5a77d6ec-d828-2c83-7ccd-adcee47c81ec",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -5.7364,
-                    7.4684,
-                    5.4509
-                ]
-            },
+            "instanceGuid": "dfe7ef64-ea0d-54f3-dbc4-83996ecf6ee6",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Door Floor 02 3"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "5a77d6ec-d828-2c83-7ccd-adcee47c81ec"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -5.7366,
+                    7.4684,
+                    5.4509
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "0cc9b390-63dd-3ac8-c910-7ffa588139f6"
+                "scene": "9ae6a241-6702-0707-3bcc-700b318ba42a"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "4efbc010-f6af-7a19-91af-59e10686cdf3",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    6.1605,
-                    7.4527,
-                    5.4324
-                ]
-            },
+            "instanceGuid": "4d743b4f-070e-f385-f9aa-d11bd9b0e6ed",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Door Floor 02 4"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "4efbc010-f6af-7a19-91af-59e10686cdf3"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    6.1605,
+                    7.4527,
+                    5.4325
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "2f9e8aad-9e5f-34e0-1185-3756afe3eb97"
+                "scene": "38a0f5ba-b9ad-9dbf-f87b-ea7bc45e236b"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "152e8a51-ab25-81cd-1b22-adb24ab1d09d",
+            "instanceGuid": "a5e8317a-5ebc-b022-7c34-ab3d86e016c9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ornament Door Floor 02 5"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     10.0585,
@@ -1713,47 +1436,39 @@
                     5.4509
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ornament Door Floor 02 5"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "152e8a51-ab25-81cd-1b22-adb24ab1d09d"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "dfdd739c-f094-d590-d1ee-3c0e0b89783b"
+                "scene": "b79a7d14-9926-d4cc-83fa-b11201237f92"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "b3f4cd4b-63e5-f484-3a7e-7e6821a69112",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -9.6346,
-                    7.4684,
-                    5.4509
-                ]
-            },
+            "instanceGuid": "d12294d9-6b03-ea0a-bf0e-b134ff7e3825",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Door Floor 02 6"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b3f4cd4b-63e5-f484-3a7e-7e6821a69112"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -9.6348,
+                    7.4684,
+                    5.4509
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "15757151-b0ad-92ef-fe89-420465f9b667"
+                "scene": "124ffa73-9692-e351-a40b-3ddd6da024b0"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "d55723d2-7a0a-1742-fd80-3ba9aff0344c",
+            "instanceGuid": "448dc52b-19c1-79df-fe79-feaa9d50f018",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ornament Door Floor 02 7"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -12.4031,
@@ -1761,47 +1476,39 @@
                     5.4376
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ornament Door Floor 02 7"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d55723d2-7a0a-1742-fd80-3ba9aff0344c"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "12ed98f9-6825-44d4-17d2-3a65212368ff"
+                "scene": "64e3aa12-d687-5246-90d3-8d515cb4408f"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "c6928882-0bcf-8005-e4c3-0c293071e992",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -12.4216,
-                    4.708,
-                    5.4509
-                ]
-            },
+            "instanceGuid": "86edd9ce-d33d-e22c-a6f7-5bb26ea23f10",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Door Floor 02 8"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c6928882-0bcf-8005-e4c3-0c293071e992"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -12.4216,
+                    4.7081,
+                    5.4509
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "e8d2a11e-23a4-3f6d-ad69-869d7fd367fd"
+                "scene": "5e123995-3a66-118e-f4f9-4e589b30f6c6"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "d4665f66-fbcf-836c-d6ac-3425e2db66af",
+            "instanceGuid": "44d6b613-a33b-127a-38aa-cc795d28305a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ornament Door Floor 02 9"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -12.4244,
@@ -1809,119 +1516,99 @@
                     5.4509
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ornament Door Floor 02 9"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d4665f66-fbcf-836c-d6ac-3425e2db66af"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "10d298c7-6974-66ee-53a4-3329e6564314"
+                "scene": "d3a64fc5-0775-2bd5-f90d-687f31ab60db"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "0577a407-2013-f04b-1ddc-76c2107f9a4d",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    2.2569,
-                    -7.4299,
-                    5.4509
-                ]
-            },
+            "instanceGuid": "b11ec5d2-1331-e672-df6d-9b2f36e9a89a",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Door Floor 02 10"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "0577a407-2013-f04b-1ddc-76c2107f9a4d"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.2569,
+                    -7.4301,
+                    5.4509
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "8e8abadc-b13c-8eb0-c66f-3e7faee8e34b"
+                "scene": "77dcc9ef-3711-05e1-2da1-12a62929c453"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "ef1eec89-3881-1746-5bb1-1b97ad439570",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -1.9147,
-                    -7.4299,
-                    5.4509
-                ]
-            },
+            "instanceGuid": "e4642dc7-231f-3943-a244-7e12a6dad309",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Door Floor 02 11"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ef1eec89-3881-1746-5bb1-1b97ad439570"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.9147,
+                    -7.4301,
+                    5.4509
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "fbf55a21-e87c-1976-105e-b32513593a73"
+                "scene": "e169b0ad-c63a-373d-d463-a0ce37d5d1b8"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "dd059688-a529-51d1-c659-30c4765a2415",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -5.841,
-                    -7.4299,
-                    5.4509
-                ]
-            },
+            "instanceGuid": "95f2b7df-5af3-119b-e0f4-45d522da42da",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Door Floor 02 12"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "dd059688-a529-51d1-c659-30c4765a2415"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -5.841,
+                    -7.4301,
+                    5.4509
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "375f1793-c71b-5344-005c-7adaade33d11"
+                "scene": "f3d0ef94-5879-a964-7903-e2e5e430ee62"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "8d5cf1e9-53fd-a554-3883-627bee96f020",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -9.6921,
-                    -7.4299,
-                    5.4509
-                ]
-            },
+            "instanceGuid": "426d0a0e-5a3e-ccf7-ca56-347fbb4a63fd",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Door Floor 02 13"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "8d5cf1e9-53fd-a554-3883-627bee96f020"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -9.6923,
+                    -7.4301,
+                    5.4509
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "b82877f3-32e7-e5fa-fdbf-ccd9ca2b8054"
+                "scene": "c5173eb2-cb74-a26c-a9ca-14eaf1a5dc69"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "f5dfc72c-3e1e-f40c-7a84-73dff55f7524",
+            "instanceGuid": "7f01cd78-db15-6541-00d4-4171ac44650f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ornament Door Floor 02 14"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     10.0401,
@@ -1929,23 +1616,19 @@
                     4.7967
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ornament Door Floor 02 14"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f5dfc72c-3e1e-f40c-7a84-73dff55f7524"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "4833e778-482a-5fc4-d5b1-f8ac5754ad6a"
+                "scene": "3d03bf12-d584-c3f8-3326-793b8df5719d"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "67f281fa-6e56-5ede-fd83-8e51064f3399",
+            "instanceGuid": "d0ce3721-06f4-057e-c92a-8a0569bf3eda",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ornament Door Floor 02 15"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     12.7391,
@@ -1953,23 +1636,19 @@
                     5.4225
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ornament Door Floor 02 15"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "67f281fa-6e56-5ede-fd83-8e51064f3399"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "e20bcae7-8fba-ff41-53a9-2b51467a43bc"
+                "scene": "2530da30-a750-05c7-a249-d237014daa74"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "3aa15581-dc1f-c050-266a-491f14c39e57",
+            "instanceGuid": "81bc997b-d0c1-b5b3-eebc-bf521fd0c946",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ornament Stones Floor 01"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -1.2055,
@@ -1977,292 +1656,244 @@
                     2.8793
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ornament Stones Floor 01"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "3aa15581-dc1f-c050-266a-491f14c39e57"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "e91ed92b-d868-2e34-ca38-f9f2fc3df95a"
+                "scene": "d0bb0d08-3483-edd1-94c7-cc9588727807"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "11c7be27-3997-57f7-83b0-08fa8151bf11",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    15.6106,
-                    0.9186,
-                    3.8828
-                ]
-            },
+            "instanceGuid": "d9d6bbb8-5b1f-f478-4b86-e03a973487f7",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lamp Entrance Floor 01"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "11c7be27-3997-57f7-83b0-08fa8151bf11"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    15.6107,
+                    0.9186,
+                    3.883
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "bad8a696-4e31-43b2-9fc4-e16f412a2603"
+                "scene": "625f8eaf-e23f-09e4-bc5f-c0c4c50e5907"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "e4a283c6-21e9-3d2f-c624-e24f27038bc4",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    1.8776,
-                    -0.4963,
-                    8.2589
-                ]
-            },
+            "instanceGuid": "1c31b298-f2ba-3984-ec20-68ab9af83f66",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Exterior"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e4a283c6-21e9-3d2f-c624-e24f27038bc4"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    1.8778,
+                    -0.4965,
+                    8.2591
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "4bbac0b6-2958-ff72-a502-71adccee1c99"
+                "scene": "02d37390-c7c3-d15e-f7e8-f771a20bbe7b"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "b64dd6d5-c2a6-4f73-5c09-9c8aef626154",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -11.3542,
-                    -0.0683,
-                    2.8561
-                ]
-            },
+            "instanceGuid": "55ad1516-55b9-a3a4-9745-ea305639cba1",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Walls Floor 01"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b64dd6d5-c2a6-4f73-5c09-9c8aef626154"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.3543,
+                    -0.0683,
+                    2.8561
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "2243fabb-1f10-5d5e-3942-88e527191106"
+                "scene": "d4fffe3a-2367-8bb7-59af-1e1f4ca0955b"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "ea743ce9-e2a1-b2fc-a631-2921844e2805",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    19.4918,
-                    -0.0315,
-                    0.7785
-                ]
-            },
+            "instanceGuid": "27e830c9-3858-dd84-6adc-db4acfa8eb72",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wood Door Floor 01"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ea743ce9-e2a1-b2fc-a631-2921844e2805"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    19.4918,
+                    -0.0316,
+                    0.7786
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "13c96bc8-c843-1fd5-f33e-6d8e50df7b1d"
+                "scene": "a3903de5-7cfc-4a3e-28f4-06263c38a379"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "fd306daf-89d0-9ea6-0e98-d3446143afee",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    14.1603,
-                    2.4962,
-                    1.8342
-                ]
-            },
+            "instanceGuid": "1e215e63-121e-62e5-fe2c-764b6d1e2664",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Wooden Parts Floor 01"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "fd306daf-89d0-9ea6-0e98-d3446143afee"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    14.1603,
+                    2.4963,
+                    1.8342
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "483ccf09-d580-8e87-0a3b-5b8bec5c9889"
+                "scene": "3cfe4999-a1a2-e09f-a1d5-07fe38718843"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "9cfdc87b-99e6-669e-f4f7-246e506d38ed",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -15.9455,
-                    -0.0992,
-                    0.228
-                ],
-                "rotation": [
-                    0.0,
-                    0.0,
-                    89.9997
-                ]
-            },
+            "instanceGuid": "2fe71da5-4f12-24f8-19c9-3c1075bcd408",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lionhead Floor 01"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "9cfdc87b-99e6-669e-f4f7-246e506d38ed"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -15.9457,
+                    -0.0993,
+                    0.228
+                ],
+                "rotation": [
+                    -0.0,
+                    -0.0,
+                    89.9999
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "a5cd6360-1207-d87a-5a3a-45ac0c56ab65"
+                "scene": "28fda3c7-2a01-9302-2202-a930fe87a181"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "5a263644-82bb-ed94-d794-7836f44ff7ff",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.402,
-                    0.1508,
-                    4.096
-                ]
-            },
+            "instanceGuid": "172ef44c-8984-5ff4-a2b0-b1095e7a7f17",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ceiling Floor 01 1"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "5a263644-82bb-ed94-d794-7836f44ff7ff"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.4021,
+                    0.1508,
+                    4.0961
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "8a97cec3-4c0d-0297-546f-0dd433fed7f4"
+                "scene": "8e9d3493-60ac-4622-ce34-3744fb9cfd38"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "8e55ef7d-d206-c8e3-9b76-39e2b8945e89",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    15.2726,
-                    2.094,
-                    3.9124
-                ]
-            },
+            "instanceGuid": "817b870a-0757-6589-56ad-6111a6a269e1",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ceiling Floor 01 2"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "8e55ef7d-d206-c8e3-9b76-39e2b8945e89"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    15.2726,
+                    2.0942,
+                    3.9124
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "f9e5aa71-65f2-f81b-3176-32093a7390dc"
+                "scene": "19f9d0d9-2725-f551-36eb-02d163e6b9c3"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "5f8db5e8-6a52-19e3-6de8-bf9e78e1cea6",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.1401,
-                    -3.0871,
-                    4.0689
-                ]
-            },
+            "instanceGuid": "234b3b5a-4b42-fd0a-055d-024a4da41551",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Arch Stones Floor 01 1"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "5f8db5e8-6a52-19e3-6de8-bf9e78e1cea6"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.1401,
+                    -3.0872,
+                    4.0691
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "342a834f-fa28-1d17-0ff0-a8c5a23412cc"
+                "scene": "ba774684-2dfd-178c-5d54-94d8b4d7b7d2"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "f5e81f17-0e35-8347-9bcc-080da491e60e",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.1401,
-                    3.1147,
-                    4.0689
-                ]
-            },
+            "instanceGuid": "71ad468b-e65e-5bef-b5aa-08d69495f2e5",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Arch Stones Floor 01 2"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f5e81f17-0e35-8347-9bcc-080da491e60e"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.1401,
+                    3.1147,
+                    4.0691
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "f592277d-c917-a6a6-7d95-87d4267a125f"
+                "scene": "39633c7f-1198-768d-8ec6-b11a4d85630c"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "0632c41d-efda-672d-a887-138b5ef5caf2",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.1137,
-                    0.0166,
-                    4.3737
-                ]
-            },
+            "instanceGuid": "c8d2b9a1-26db-ffba-a23e-ff7c8ec13cbb",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Arch Stones Floor 01 3"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "0632c41d-efda-672d-a887-138b5ef5caf2"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.1137,
+                    0.0168,
+                    4.3738
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "56e186cc-7050-4476-c755-aca52e4c7094"
+                "scene": "275236d6-ade9-dbb4-ac79-085187a94a4f"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "32326929-78db-351f-262d-567833386e80",
+            "instanceGuid": "52db766d-96ce-e151-5f93-ba843f5beb36",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Columns Floor 01 1"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     8.3294,
@@ -2270,95 +1901,79 @@
                     -0.0115
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Columns Floor 01 1"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "32326929-78db-351f-262d-567833386e80"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "c450148e-3fc4-3b30-7f1d-2dbb4574af59"
+                "scene": "0e25c3a0-b329-29c2-90da-d63df2c7adc5"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "671d2903-7ea1-03d1-b2ea-d0abe491fedb",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    4.2073,
-                    0.0408,
-                    -0.0126
-                ]
-            },
+            "instanceGuid": "732b0b1e-23a4-3110-9ba6-1ff3325341fc",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Columns Floor 01 2"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "671d2903-7ea1-03d1-b2ea-d0abe491fedb"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    4.2073,
+                    0.0408,
+                    -0.0127
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "84aded3b-dc6f-de8a-9d66-a2e7c627662a"
+                "scene": "7d6c4b91-d122-0cff-f640-1e63a0dfbfba"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "b0ab5a9e-784d-9e87-d94c-4ec7faa74857",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    0.1439,
-                    0.0362,
-                    -0.0118
-                ]
-            },
+            "instanceGuid": "f1cd663d-51fc-e199-2156-dfcda5a3f2a7",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Columns Floor 01 3"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "b0ab5a9e-784d-9e87-d94c-4ec7faa74857"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.1441,
+                    0.0362,
+                    -0.0118
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "583f0c3c-dd21-1f98-677e-0f23329610a9"
+                "scene": "8e4116c6-77d2-3fa7-c814-6783bf0cd6fc"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "fb229902-2ea6-8570-f8ca-d38d3523bef3",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -3.8963,
-                    0.0368,
-                    -0.0114
-                ]
-            },
+            "instanceGuid": "4e0d08e7-b7bd-8406-4fa9-c78f6d6f5004",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Columns Floor 01 4"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "fb229902-2ea6-8570-f8ca-d38d3523bef3"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -3.8963,
+                    0.0369,
+                    -0.0114
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "683b060e-62e9-0fa9-3d13-d1afe951e3e2"
+                "scene": "c99a7c57-5d24-0a68-cf3c-740388e49473"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "af0127cb-d599-8ba1-83b8-1f987ed757fc",
+            "instanceGuid": "3fba6aaf-49c6-7b44-33f0-0d7b9f3ab48e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Columns Floor 01 5"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -8.0818,
@@ -2366,316 +1981,264 @@
                     -0.0115
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Columns Floor 01 5"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "af0127cb-d599-8ba1-83b8-1f987ed757fc"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "fa7d60fc-50e6-9028-e6e5-4b755e84ab83"
+                "scene": "b8a43133-2c84-266d-32ae-1350902b90ac"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "a03e8c01-8c12-9e90-8b89-355daf641eb3",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -1.8523,
-                    4.7958,
-                    4.8232
-                ]
-            },
+            "instanceGuid": "1929524f-6f34-5611-e461-2e547c2c6ef1",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lamps Floor 01 1"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a03e8c01-8c12-9e90-8b89-355daf641eb3"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.8523,
+                    4.7958,
+                    4.8233
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "e6bef1af-dbd5-732e-1c2a-23ce3a5d46e6"
+                "scene": "548af0c1-dcf5-fb71-9b06-489295648591"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "7d6cfdf5-1f1a-e9a2-cfc3-1e7892653607",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -5.9214,
-                    4.7958,
-                    4.8232
-                ]
-            },
+            "instanceGuid": "d8d5e3b8-04df-a1af-a930-43553d9ae0c5",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lamps Floor 01 2"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7d6cfdf5-1f1a-e9a2-cfc3-1e7892653607"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -5.9214,
+                    4.7958,
+                    4.8233
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "2754e85f-3367-d67e-8284-917b319792ce"
+                "scene": "dda1d473-c0f6-d338-07af-b4062f7fd9bd"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "c751f2a9-aac0-8b63-19ff-a7f708e8541a",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -9.8226,
-                    4.7958,
-                    4.8232
-                ]
-            },
+            "instanceGuid": "5aa6b25b-08a3-8a0d-064b-9649eeffade0",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lamps Floor 01 3"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "c751f2a9-aac0-8b63-19ff-a7f708e8541a"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -9.8226,
+                    4.7958,
+                    4.8233
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "b9d4a06f-9716-2eb2-91cd-8f00faab891c"
+                "scene": "4620eb9e-f4d1-9aa1-baa4-4a7a40e08c93"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "ac2a067a-08fc-6b7c-dbb0-9e7aecda2bf0",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    6.1468,
-                    -4.7304,
-                    4.8232
-                ]
-            },
+            "instanceGuid": "0e1ba67c-7f37-9d1b-4e79-6a93062eab72",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lamps Floor 01 4"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "ac2a067a-08fc-6b7c-dbb0-9e7aecda2bf0"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    6.1468,
+                    -4.7304,
+                    4.8233
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "c2ff5851-267a-7c85-0b0f-8fa3efa8b73c"
+                "scene": "bc825e76-47a6-9dd1-2dd3-5e3c1125c421"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "a98e699f-cb1b-373b-7319-b91cd01c270d",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    2.1879,
-                    -4.7399,
-                    4.8232
-                ]
-            },
+            "instanceGuid": "efe842d9-68db-b9e7-e551-1e7238ad7d1a",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lamps Floor 01 5"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a98e699f-cb1b-373b-7319-b91cd01c270d"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.188,
+                    -4.7401,
+                    4.8233
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "20d57e0a-a50b-5284-6461-392638dc3ab6"
+                "scene": "d9f99f10-cda1-c6f8-b4d3-3e3b19977204"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "3dced988-5eee-aca4-f67b-eed9574aba2a",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -1.8523,
-                    -4.7399,
-                    4.8232
-                ]
-            },
+            "instanceGuid": "e6295683-3427-5fd5-b08c-64c5cc52b6dd",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lamps Floor 01 6"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "3dced988-5eee-aca4-f67b-eed9574aba2a"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.8523,
+                    -4.7401,
+                    4.8233
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "b64a9d2f-51b6-84f1-4077-3bf2717038d6"
+                "scene": "831178b2-8183-fb16-94df-51645b8b2e72"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "f1bf4924-17e2-9f4e-88fa-d9cd4e7828b9",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -5.9214,
-                    -4.7399,
-                    4.8232
-                ]
-            },
+            "instanceGuid": "0c0f8de5-3fab-91ca-31fc-6b3fd6d987ee",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lamps Floor 01 7"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f1bf4924-17e2-9f4e-88fa-d9cd4e7828b9"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -5.9214,
+                    -4.7401,
+                    4.8233
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "7d3289c8-98a8-689b-eee0-c97830ff5aaa"
+                "scene": "ee28416c-c640-f6cd-cc15-2e494a077945"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "a63b1ad3-a0f0-2e59-f2bd-f5d143c2fd0e",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -9.8226,
-                    -4.7399,
-                    4.8232
-                ]
-            },
+            "instanceGuid": "f18cc715-f41b-8d9c-1acc-6a2cb9c598cf",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lamps Floor 01 8"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a63b1ad3-a0f0-2e59-f2bd-f5d143c2fd0e"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -9.8226,
+                    -4.7401,
+                    4.8233
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "476b81c2-da3c-ef1f-026b-3cd047553a90"
+                "scene": "f4671cb0-ffe2-d32d-2f51-aded465b94e5"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "5f55de36-625e-3660-2437-7a006b96fa0c",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    10.0274,
-                    4.7958,
-                    4.8232
-                ]
-            },
+            "instanceGuid": "5bff30d9-ce94-0220-a3b5-3dfd37dd4ceb",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lamps Floor 01 9"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "5f55de36-625e-3660-2437-7a006b96fa0c"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    10.0274,
+                    4.7958,
+                    4.8233
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "d55c9ce8-55e3-8579-d99a-0d3d9e49e714"
+                "scene": "4554f6fc-708b-4d36-cf97-3059ff581757"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "0b73fa66-7652-69a2-d6bb-ff84bac95412",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    10.1581,
-                    -4.743,
-                    4.8232
-                ]
-            },
+            "instanceGuid": "5817cc2c-436e-7251-bb96-ac5966a4fe05",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lamps Floor 01 10"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "0b73fa66-7652-69a2-d6bb-ff84bac95412"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    10.1581,
+                    -4.743,
+                    4.8233
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "0125016c-43d4-70c1-0987-62b6ba5b9b33"
+                "scene": "a8226bd9-9fef-46dc-3d7d-287cc8655377"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "eb5e8af2-0f00-561e-6f44-3ffece35d65c",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    2.1879,
-                    4.7958,
-                    4.8232
-                ]
-            },
+            "instanceGuid": "8043fa6f-8c76-d455-96f2-e22167f0d4e1",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lamps Floor 01 11"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "eb5e8af2-0f00-561e-6f44-3ffece35d65c"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.188,
+                    4.7958,
+                    4.8233
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "670d6649-85a2-e799-96b1-6eb7ff127b54"
+                "scene": "f2150fd4-c3c0-b1bf-b300-4bbb561f848b"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "7105c7ae-d63f-f23f-f853-e98b3f49506b",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    6.1468,
-                    4.8053,
-                    4.8232
-                ]
-            },
+            "instanceGuid": "9fc8c955-4509-d650-bbcc-e49481d681ea",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Lamps Floor 01 12"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "7105c7ae-d63f-f23f-f853-e98b3f49506b"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    6.1468,
+                    4.8054,
+                    4.8233
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "fcfcf882-faf8-505f-e0ef-00d913335b85"
+                "scene": "6ace67a0-45ab-b226-b357-0b371a019450"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "cc9decbe-2107-e4bc-f8cb-eb651ad8cd93",
+            "instanceGuid": "4ab9a068-2b83-32f9-d5b0-ada29fe9bb97",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Lamps Floor 01 13"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -13.5986,
                     -0.0635,
-                    4.5651
+                    4.5653
                 ],
                 "rotation": [
                     0.0,
@@ -2683,47 +2246,39 @@
                     -25.0
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Lamps Floor 01 13"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "cc9decbe-2107-e4bc-f8cb-eb651ad8cd93"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "0afd304c-b242-128b-df1e-6c91003c320f"
+                "scene": "c56ea8ae-5f4d-3fa8-4be8-5ec3afbcba62"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "155bb29f-5288-82a2-c049-b686498bbccb",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    15.4814,
-                    -1.4644,
-                    1.5198
-                ]
-            },
+            "instanceGuid": "f75b79c3-2009-bb69-5b0d-628435890a86",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Doors Floor 01 1"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "155bb29f-5288-82a2-c049-b686498bbccb"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    15.4816,
+                    -1.4644,
+                    1.52
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "ad3b10d2-a8a5-0929-1d96-d627bda235e8"
+                "scene": "0953f707-9d94-fb53-52db-4f7518cc4146"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "e276d7d3-2d0d-aab1-04d8-34326d8e37db",
+            "instanceGuid": "433d6d38-dc4d-fb68-5ee4-478aa7eb9ecf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ornament Doors Floor 01 2"
+                }
+            ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     18.3113,
@@ -2731,215 +2286,201 @@
                     0.8876
                 ]
             },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Ornament Doors Floor 01 2"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e276d7d3-2d0d-aab1-04d8-34326d8e37db"
-                }
-            ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "b0cbd3d1-e8db-59c9-6474-7c763ae3f9e6"
+                "scene": "11d7b6b2-d24b-a7fe-1588-016bc81ab31c"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "e9ba5b92-12cc-709f-c57d-fe89b52f5dda",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    6.1954,
-                    -6.1332,
-                    1.7941
-                ]
-            },
+            "instanceGuid": "d5c316c1-db5c-566d-fc5d-c4ffa19a6dcc",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Doors Floor 01 3"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "e9ba5b92-12cc-709f-c57d-fe89b52f5dda"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    6.1955,
+                    -6.1333,
+                    1.7943
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "e38d10a0-0e1f-e956-b087-c0fafd3fcfdb"
+                "scene": "c283f0c3-c1e2-487c-7f9d-8454e1d912db"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "a8e1de79-2b92-d711-6379-4a201c43556a",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    2.1816,
-                    -6.1332,
-                    1.7941
-                ]
-            },
+            "instanceGuid": "90b654fa-fee3-9a03-e540-044efffc042c",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Doors Floor 01 4"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "a8e1de79-2b92-d711-6379-4a201c43556a"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    2.1816,
+                    -6.1333,
+                    1.7943
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "1e4fb54f-397e-af0c-7d2c-b62e8740485c"
+                "scene": "9890e931-661a-1894-8276-3cfbb4390e7b"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "1d4ea6a0-b697-b339-b6d9-ef309326d3a3",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -1.8183,
-                    -6.1332,
-                    1.7941
-                ]
-            },
+            "instanceGuid": "2e076684-c855-1863-8120-479599e086f4",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Doors Floor 01 5"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "1d4ea6a0-b697-b339-b6d9-ef309326d3a3"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -1.8183,
+                    -6.1333,
+                    1.7943
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "e2441ef1-c610-3500-9470-19e5ef197e8a"
+                "scene": "1c6534e5-4e83-3b9f-4dcf-54ef0a324d7c"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "30139293-3733-d8b6-ad81-81af8fc189c9",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -5.7768,
-                    -6.1332,
-                    1.7941
-                ]
-            },
+            "instanceGuid": "ecdb474c-7a0b-bdfb-c8d1-5a1b68bb042b",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Doors Floor 01 6"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "30139293-3733-d8b6-ad81-81af8fc189c9"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -5.7769,
+                    -6.1333,
+                    1.7943
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "6d48d4fa-155d-bbcb-6510-97ad33d45cc4"
+                "scene": "bea8b96d-3cd3-c94e-b66e-ba554216f335"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "05c3cd2d-27d9-c918-7989-48bc926455e4",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -11.2299,
-                    -4.6574,
-                    1.7941
-                ]
-            },
+            "instanceGuid": "2883c47d-7202-57cc-6b0f-d0746bf6391d",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Doors Floor 01 7"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "05c3cd2d-27d9-c918-7989-48bc926455e4"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -11.2301,
+                    -4.6576,
+                    1.7943
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "94a44589-7e89-b21b-96c8-e23e0119b116"
+                "scene": "d6bd744e-32ac-eb34-b222-2e015bb2a6a3"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "6878b9b2-3c58-0ccf-074b-7ca726370c3e",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -9.7201,
-                    -6.1392,
-                    1.7941
-                ]
-            },
+            "instanceGuid": "f3d85bd0-9c64-d974-f144-55cb3c8c891e",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Doors Floor 01 8"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "6878b9b2-3c58-0ccf-074b-7ca726370c3e"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -9.7202,
+                    -6.1392,
+                    1.7943
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "aa95a867-612a-0f26-d40a-f1616758054d"
+                "scene": "37de6da0-7b61-e5b8-9480-1bf8c317ff5e"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "f9e0e35f-4362-ba54-52eb-a028f618306a",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -2.0485,
-                    6.0981,
-                    1.8172
-                ]
-            },
+            "instanceGuid": "a2871c8e-e3a5-7cf9-48d7-424f8925a213",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Doors Floor 01 9"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f9e0e35f-4362-ba54-52eb-a028f618306a"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -2.0485,
+                    6.0981,
+                    1.8174
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "238d13b7-ddcb-d9dc-2e99-24c6ce1b35a0"
+                "scene": "113d3194-ad4d-ff7d-6875-c9f244eaeb9e"
             }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "49381afb-24b2-5eeb-362f-f6bf3faadb97",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -9.992,
-                    4.9496,
-                    1.8122
-                ]
-            },
+            "instanceGuid": "c51c4312-7eb1-e789-1135-ba6d531c4cfe",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Ornament Doors Floor 01 10"
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "49381afb-24b2-5eeb-362f-f6bf3faadb97"
                 }
             ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -9.9922,
+                    4.9496,
+                    1.8124
+                ]
+            },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "2f95b1a6-f88f-3a73-13bb-c631727e10df"
+                "scene": "7c8902bc-736a-28f6-bf42-7a0e96d1a166"
             }
         },
         {
+            "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
+                "asset": ""
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
+                    ]
+                }
+            ]
+        },
+        {
             "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
-            "instanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     3.2569,
@@ -2975,20 +2516,50 @@
                     "name": "Directional Light"
                 },
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
+                }
+            ]
+        },
+        {
+            "typeGuid": "37000929-8ed6-4f15-a9ec-4f7d15302f02",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.0138,
+                    0.0,
+                    0.0
+                ],
+                "rotation": [
+                    -89.999,
+                    0.0,
+                    0.0
+                ]
+            },
+            "37000929-8ed6-4f15-a9ec-4f7d15302f02": {
+                "acceleration": 9.81
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Gravity"
                 },
                 {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                    "templateInstanceGuid": "18346473-407b-41da-9738-296707036b30"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
                 }
             ]
         },
         {
             "typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
-            "instanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     -25.1403,
@@ -3015,25 +2586,28 @@
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Environment Light",
-                    "flags": 2
+                    "name": "Environment Light"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
                 },
                 {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
                 }
             ]
         },
         {
             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-            "instanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    0.0,
+                    -3.0848
+                ],
                 "scale": [
                     100.0
                 ]
@@ -3046,7 +2620,7 @@
             },
             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                 "mesh": "540e608c-9479-123a-f12e-3cf1b42de797",
-                "material_instance": "048cf5e5-8cb5-4973-a63f-9115c3a2da5f"
+                "material_instance": "289fcae5-f789-41cb-b977-7c3a9eeea6ee"
             },
             "data_components": [
                 {
@@ -3054,14 +2628,14 @@
                     "name": "Skysphere"
                 },
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
                 }
             ]
         }
