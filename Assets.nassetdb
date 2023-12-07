@@ -6,7 +6,10 @@
     "a6bcd6d6-3e74-41d3-b8d2-02a4a909b77a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Sponza.scene.nasset"
+        "path": "Assets/Sponza.scene.nasset",
+        "metadata": {
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[0.436,-0.6431,1.6239],\"rotation\":[-58.6023,-0.0,-0.7749]}"
+        }
     },
     "c76030f9-7e69-4a3c-a9b1-adfc47711809": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
